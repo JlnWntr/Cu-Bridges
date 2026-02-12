@@ -1,0 +1,5454 @@
+{
+  "sites": [
+    {
+      "url": "pitchfork.com",
+      "name": "Pitchfork",
+      "category": "music",
+      "tags": [
+        "indie",
+        "alternative",
+        "reviews"
+      ],
+      "description": "Music reviews and news",
+      "similar": [
+        "stereogum.com",
+        "consequenceofsound.net",
+        "thequietus.com"
+      ]
+    },
+    {
+      "url": "stereogum.com",
+      "name": "Stereogum",
+      "category": "music",
+      "tags": [
+        "indie",
+        "pop",
+        "news"
+      ],
+      "description": "Music news and reviews",
+      "similar": [
+        "pitchfork.com",
+        "brooklynvegan.com"
+      ]
+    },
+    {
+      "url": "brooklynvegan.com",
+      "name": "Brooklyn Vegan",
+      "category": "music",
+      "tags": [
+        "indie",
+        "punk",
+        "concerts"
+      ],
+      "description": "Music news and concert info",
+      "similar": [
+        "stereogum.com",
+        "pitchfork.com"
+      ]
+    },
+    {
+      "url": "consequenceofsound.net",
+      "name": "Consequence",
+      "category": "music",
+      "tags": [
+        "music",
+        "film",
+        "tv"
+      ],
+      "description": "Music and entertainment news",
+      "similar": [
+        "pitchfork.com",
+        "stereogum.com"
+      ]
+    },
+    {
+      "url": "thequietus.com",
+      "name": "The Quietus",
+      "category": "music",
+      "tags": [
+        "independent",
+        "experimental",
+        "culture"
+      ],
+      "description": "Independent music and culture",
+      "similar": [
+        "pitchfork.com",
+        "tinymixtapes.com"
+      ]
+    },
+    {
+      "url": "tinymixtapes.com",
+      "name": "Tiny Mix Tapes",
+      "category": "music",
+      "tags": [
+        "experimental",
+        "avant-garde",
+        "reviews"
+      ],
+      "description": "Experimental music reviews",
+      "similar": [
+        "thewire.co.uk",
+        "thequietus.com"
+      ]
+    },
+    {
+      "url": "thewire.co.uk",
+      "name": "The Wire",
+      "category": "music",
+      "tags": [
+        "experimental",
+        "avant-garde",
+        "jazz"
+      ],
+      "description": "Adventures in modern music",
+      "similar": [
+        "tinymixtapes.com",
+        "thequietus.com"
+      ]
+    },
+    {
+      "url": "residentadvisor.net",
+      "name": "Resident Advisor",
+      "category": "music",
+      "tags": [
+        "electronic",
+        "techno",
+        "events"
+      ],
+      "description": "Electronic music and events",
+      "similar": [
+        "xlr8r.com",
+        "factmag.com"
+      ]
+    },
+    {
+      "url": "xlr8r.com",
+      "name": "XLR8R",
+      "category": "music",
+      "tags": [
+        "electronic",
+        "experimental",
+        "culture"
+      ],
+      "description": "Electronic music and culture",
+      "similar": [
+        "residentadvisor.net",
+        "factmag.com"
+      ]
+    },
+    {
+      "url": "factmag.com",
+      "name": "FACT Magazine",
+      "category": "music",
+      "tags": [
+        "electronic",
+        "experimental",
+        "culture"
+      ],
+      "description": "Music and culture magazine",
+      "similar": [
+        "residentadvisor.net",
+        "xlr8r.com"
+      ]
+    },
+    {
+      "url": "mixmag.net",
+      "name": "Mixmag",
+      "category": "music",
+      "tags": [
+        "electronic",
+        "dance",
+        "clubbing"
+      ],
+      "description": "Dance music and clubbing",
+      "similar": [
+        "residentadvisor.net",
+        "djmag.com"
+      ]
+    },
+    {
+      "url": "bandcamp.com",
+      "name": "Bandcamp",
+      "category": "music",
+      "tags": [
+        "indie",
+        "independent",
+        "discovery"
+      ],
+      "description": "Independent music platform",
+      "similar": [
+        "soundcloud.com",
+        "spotify.com"
+      ]
+    },
+    {
+      "url": "daily.bandcamp.com",
+      "name": "Bandcamp Daily",
+      "category": "music",
+      "tags": [
+        "articles",
+        "discovery",
+        "interviews"
+      ],
+      "description": "Music journalism and features",
+      "similar": [
+        "pitchfork.com",
+        "thequietus.com"
+      ]
+    },
+    {
+      "url": "soundcloud.com",
+      "name": "SoundCloud",
+      "category": "music",
+      "tags": [
+        "streaming",
+        "independent",
+        "discovery"
+      ],
+      "description": "Music streaming and sharing",
+      "similar": [
+        "bandcamp.com",
+        "spotify.com"
+      ]
+    },
+    {
+      "url": "spotify.com",
+      "name": "Spotify",
+      "category": "music",
+      "tags": [
+        "streaming",
+        "playlists",
+        "mainstream"
+      ],
+      "description": "Music streaming service",
+      "similar": [
+        "youtube.com",
+        "applemusic.com"
+      ]
+    },
+    {
+      "url": "last.fm",
+      "name": "Last.fm",
+      "category": "music",
+      "tags": [
+        "scrobbling",
+        "discovery",
+        "statistics"
+      ],
+      "description": "Music tracking and discovery",
+      "similar": [
+        "rateyourmusic.com",
+        "spotify.com"
+      ]
+    },
+    {
+      "url": "rateyourmusic.com",
+      "name": "RateYourMusic",
+      "category": "music",
+      "tags": [
+        "database",
+        "reviews",
+        "community"
+      ],
+      "description": "Music database and ratings",
+      "similar": [
+        "last.fm",
+        "discogs.com",
+        "albumoftheyear.org"
+      ]
+    },
+    {
+      "url": "discogs.com",
+      "name": "Discogs",
+      "category": "music",
+      "tags": [
+        "database",
+        "marketplace",
+        "vinyl"
+      ],
+      "description": "Music database and marketplace",
+      "similar": [
+        "rateyourmusic.com",
+        "last.fm"
+      ]
+    },
+    {
+      "url": "albumoftheyear.org",
+      "name": "Album of the Year",
+      "category": "music",
+      "tags": [
+        "reviews",
+        "aggregator",
+        "ratings"
+      ],
+      "description": "Music review aggregator",
+      "similar": [
+        "rateyourmusic.com",
+        "metacritic.com"
+      ]
+    },
+    {
+      "url": "metalinjection.net",
+      "name": "Metal Injection",
+      "category": "music",
+      "tags": [
+        "metal",
+        "heavy",
+        "news"
+      ],
+      "description": "Metal music news and reviews",
+      "similar": [
+        "metalsucks.net",
+        "blabbermouth.net"
+      ]
+    },
+    {
+      "url": "metalsucks.net",
+      "name": "MetalSucks",
+      "category": "music",
+      "tags": [
+        "metal",
+        "heavy",
+        "humor"
+      ],
+      "description": "Metal news with attitude",
+      "similar": [
+        "metalinjection.net",
+        "blabbermouth.net"
+      ]
+    },
+    {
+      "url": "kerrang.com",
+      "name": "Kerrang",
+      "category": "music",
+      "tags": [
+        "rock",
+        "punk",
+        "metal"
+      ],
+      "description": "Rock and alternative music",
+      "similar": [
+        "rocksound.tv",
+        "altpress.com"
+      ]
+    },
+    {
+      "url": "npr.org/music",
+      "name": "NPR Music",
+      "category": "music",
+      "tags": [
+        "indie",
+        "folk",
+        "americana"
+      ],
+      "description": "NPR's music coverage",
+      "similar": [
+        "pastemagazine.com",
+        "allmusic.com"
+      ]
+    },
+    {
+      "url": "pastemagazine.com",
+      "name": "Paste Magazine",
+      "category": "music",
+      "tags": [
+        "indie",
+        "folk",
+        "americana"
+      ],
+      "description": "Independent music and culture",
+      "similar": [
+        "npr.org/music",
+        "stereogum.com"
+      ]
+    },
+    {
+      "url": "rockpapershotgun.com",
+      "name": "Rock Paper Shotgun",
+      "category": "games",
+      "tags": [
+        "pc-gaming",
+        "reviews",
+        "indie"
+      ],
+      "description": "PC gaming coverage",
+      "similar": [
+        "pcgamer.com",
+        "eurogamer.net"
+      ]
+    },
+    {
+      "url": "pcgamer.com",
+      "name": "PC Gamer",
+      "category": "games",
+      "tags": [
+        "pc-gaming",
+        "reviews",
+        "hardware"
+      ],
+      "description": "PC gaming magazine",
+      "similar": [
+        "rockpapershotgun.com",
+        "eurogamer.net"
+      ]
+    },
+    {
+      "url": "eurogamer.net",
+      "name": "Eurogamer",
+      "category": "games",
+      "tags": [
+        "gaming",
+        "reviews",
+        "european"
+      ],
+      "description": "European gaming coverage",
+      "similar": [
+        "rockpapershotgun.com",
+        "ign.com"
+      ]
+    },
+    {
+      "url": "ign.com",
+      "name": "IGN",
+      "category": "games",
+      "tags": [
+        "gaming",
+        "mainstream",
+        "reviews"
+      ],
+      "description": "Gaming and entertainment",
+      "similar": [
+        "gamespot.com",
+        "polygon.com"
+      ]
+    },
+    {
+      "url": "gamespot.com",
+      "name": "GameSpot",
+      "category": "games",
+      "tags": [
+        "gaming",
+        "reviews",
+        "news"
+      ],
+      "description": "Gaming news and reviews",
+      "similar": [
+        "ign.com",
+        "polygon.com"
+      ]
+    },
+    {
+      "url": "polygon.com",
+      "name": "Polygon",
+      "category": "games",
+      "tags": [
+        "gaming",
+        "culture",
+        "features"
+      ],
+      "description": "Gaming culture and features",
+      "similar": [
+        "kotaku.com",
+        "ign.com"
+      ]
+    },
+    {
+      "url": "kotaku.com",
+      "name": "Kotaku",
+      "category": "games",
+      "tags": [
+        "gaming",
+        "culture",
+        "news"
+      ],
+      "description": "Gaming culture and news",
+      "similar": [
+        "polygon.com",
+        "destructoid.com"
+      ]
+    },
+    {
+      "url": "destructoid.com",
+      "name": "Destructoid",
+      "category": "games",
+      "tags": [
+        "gaming",
+        "indie",
+        "community"
+      ],
+      "description": "Gaming news and community",
+      "similar": [
+        "kotaku.com",
+        "giantbomb.com"
+      ]
+    },
+    {
+      "url": "giantbomb.com",
+      "name": "Giant Bomb",
+      "category": "games",
+      "tags": [
+        "gaming",
+        "videos",
+        "personality"
+      ],
+      "description": "Gaming videos and features",
+      "similar": [
+        "destructoid.com",
+        "ign.com"
+      ]
+    },
+    {
+      "url": "itch.io",
+      "name": "itch.io",
+      "category": "games",
+      "tags": [
+        "indie",
+        "experimental",
+        "platform"
+      ],
+      "description": "Indie game platform",
+      "similar": [
+        "gamejolt.com",
+        "indiedb.com"
+      ]
+    },
+    {
+      "url": "gamejolt.com",
+      "name": "Game Jolt",
+      "category": "games",
+      "tags": [
+        "indie",
+        "community",
+        "free"
+      ],
+      "description": "Indie game community",
+      "similar": [
+        "itch.io",
+        "indiedb.com"
+      ]
+    },
+    {
+      "url": "indiedb.com",
+      "name": "IndieDB",
+      "category": "games",
+      "tags": [
+        "indie",
+        "mods",
+        "database"
+      ],
+      "description": "Indie game database",
+      "similar": [
+        "itch.io",
+        "gamejolt.com"
+      ]
+    },
+    {
+      "url": "tigsource.com",
+      "name": "TIGSource",
+      "category": "games",
+      "tags": [
+        "indie",
+        "devlog",
+        "community"
+      ],
+      "description": "Independent gaming community",
+      "similar": [
+        "itch.io",
+        "reddit.com/r/gamedev"
+      ]
+    },
+    {
+      "url": "news.ycombinator.com",
+      "name": "Hacker News",
+      "category": "tech",
+      "tags": [
+        "startup",
+        "tech",
+        "community"
+      ],
+      "description": "Tech and startup news",
+      "similar": [
+        "lobste.rs",
+        "reddit.com/r/programming"
+      ]
+    },
+    {
+      "url": "lobste.rs",
+      "name": "Lobsters",
+      "category": "tech",
+      "tags": [
+        "programming",
+        "tech",
+        "community"
+      ],
+      "description": "Tech-focused community",
+      "similar": [
+        "news.ycombinator.com",
+        "reddit.com/r/programming"
+      ]
+    },
+    {
+      "url": "stackoverflow.com",
+      "name": "Stack Overflow",
+      "category": "tech",
+      "tags": [
+        "programming",
+        "q-and-a",
+        "help"
+      ],
+      "description": "Programming Q&A",
+      "similar": [
+        "stackexchange.com",
+        "github.com"
+      ]
+    },
+    {
+      "url": "stackexchange.com",
+      "name": "Stack Exchange",
+      "category": "community",
+      "tags": [
+        "q-and-a",
+        "knowledge",
+        "network"
+      ],
+      "description": "Q&A network",
+      "similar": [
+        "stackoverflow.com",
+        "quora.com"
+      ]
+    },
+    {
+      "url": "dev.to",
+      "name": "DEV Community",
+      "category": "tech",
+      "tags": [
+        "programming",
+        "blogging",
+        "community"
+      ],
+      "description": "Developer community and blogging",
+      "similar": [
+        "hashnode.com",
+        "medium.com"
+      ]
+    },
+    {
+      "url": "hashnode.com",
+      "name": "Hashnode",
+      "category": "tech",
+      "tags": [
+        "blogging",
+        "programming",
+        "community"
+      ],
+      "description": "Developer blogging platform",
+      "similar": [
+        "dev.to",
+        "medium.com"
+      ]
+    },
+    {
+      "url": "github.com",
+      "name": "GitHub",
+      "category": "tech",
+      "tags": [
+        "git",
+        "open-source",
+        "collaboration"
+      ],
+      "description": "Code hosting and collaboration",
+      "similar": [
+        "gitlab.com",
+        "bitbucket.org"
+      ]
+    },
+    {
+      "url": "github.com/trending",
+      "name": "GitHub Trending",
+      "category": "tech",
+      "tags": [
+        "open-source",
+        "discovery",
+        "popular"
+      ],
+      "description": "Trending repositories",
+      "similar": [
+        "github.com/explore",
+        "gitlab.com/explore"
+      ]
+    },
+    {
+      "url": "github.com/explore",
+      "name": "GitHub Explore",
+      "category": "tech",
+      "tags": [
+        "open-source",
+        "discovery",
+        "topics"
+      ],
+      "description": "Explore GitHub projects",
+      "similar": [
+        "github.com/trending",
+        "gitlab.com"
+      ]
+    },
+    {
+      "url": "gitlab.com",
+      "name": "GitLab",
+      "category": "tech",
+      "tags": [
+        "git",
+        "devops",
+        "ci-cd"
+      ],
+      "description": "DevOps platform",
+      "similar": [
+        "github.com",
+        "bitbucket.org"
+      ]
+    },
+    {
+      "url": "codeberg.org",
+      "name": "Codeberg",
+      "category": "tech",
+      "tags": [
+        "git",
+        "open-source",
+        "nonprofit"
+      ],
+      "description": "Nonprofit Git hosting",
+      "similar": [
+        "github.com",
+        "gitlab.com"
+      ]
+    },
+    {
+      "url": "replit.com",
+      "name": "Replit",
+      "category": "tech",
+      "tags": [
+        "ide",
+        "collaborative",
+        "learning"
+      ],
+      "description": "Online collaborative IDE",
+      "similar": [
+        "glitch.com",
+        "codesandbox.io"
+      ]
+    },
+    {
+      "url": "glitch.com",
+      "name": "Glitch",
+      "category": "tech",
+      "tags": [
+        "web-apps",
+        "collaborative",
+        "creative"
+      ],
+      "description": "Collaborative web app platform",
+      "similar": [
+        "replit.com",
+        "codesandbox.io"
+      ]
+    },
+    {
+      "url": "codesandbox.io",
+      "name": "CodeSandbox",
+      "category": "tech",
+      "tags": [
+        "ide",
+        "frontend",
+        "react"
+      ],
+      "description": "Online code editor",
+      "similar": [
+        "replit.com",
+        "stackblitz.com"
+      ]
+    },
+    {
+      "url": "stackblitz.com",
+      "name": "StackBlitz",
+      "category": "tech",
+      "tags": [
+        "ide",
+        "web-dev",
+        "instant"
+      ],
+      "description": "Instant fullstack dev",
+      "similar": [
+        "codesandbox.io",
+        "replit.com"
+      ]
+    },
+    {
+      "url": "jsfiddle.net",
+      "name": "JSFiddle",
+      "category": "tech",
+      "tags": [
+        "playground",
+        "javascript",
+        "testing"
+      ],
+      "description": "JavaScript playground",
+      "similar": [
+        "codepen.io",
+        "jsbin.com"
+      ]
+    },
+    {
+      "url": "codepen.io",
+      "name": "CodePen",
+      "category": "tech",
+      "tags": [
+        "frontend",
+        "creative",
+        "showcase"
+      ],
+      "description": "Frontend playground and showcase",
+      "similar": [
+        "jsfiddle.net",
+        "codesandbox.io"
+      ]
+    },
+    {
+      "url": "producthunt.com",
+      "name": "Product Hunt",
+      "category": "tech",
+      "tags": [
+        "startups",
+        "products",
+        "discovery"
+      ],
+      "description": "New product discovery",
+      "similar": [
+        "betalist.com",
+        "news.ycombinator.com"
+      ]
+    },
+    {
+      "url": "betalist.com",
+      "name": "BetaList",
+      "category": "tech",
+      "tags": [
+        "startups",
+        "beta",
+        "early-access"
+      ],
+      "description": "Startup early access",
+      "similar": [
+        "producthunt.com",
+        "launching.io"
+      ]
+    },
+    {
+      "url": "indiehackers.com",
+      "name": "Indie Hackers",
+      "category": "tech",
+      "tags": [
+        "startups",
+        "bootstrapping",
+        "community"
+      ],
+      "description": "Independent maker community",
+      "similar": [
+        "news.ycombinator.com",
+        "makerlog.com"
+      ]
+    },
+    {
+      "url": "huggingface.co",
+      "name": "Hugging Face",
+      "category": "tech",
+      "tags": [
+        "ai",
+        "ml",
+        "models"
+      ],
+      "description": "ML model hub",
+      "similar": [
+        "kaggle.com",
+        "github.com"
+      ]
+    },
+    {
+      "url": "kaggle.com",
+      "name": "Kaggle",
+      "category": "tech",
+      "tags": [
+        "data-science",
+        "ml",
+        "competitions"
+      ],
+      "description": "Data science competitions",
+      "similar": [
+        "huggingface.co",
+        "github.com"
+      ]
+    },
+    {
+      "url": "paperswithcode.com",
+      "name": "Papers with Code",
+      "category": "tech",
+      "tags": [
+        "research",
+        "ml",
+        "papers"
+      ],
+      "description": "ML research with code",
+      "similar": [
+        "arxiv.org",
+        "huggingface.co"
+      ]
+    },
+    {
+      "url": "techcrunch.com",
+      "name": "TechCrunch",
+      "category": "tech",
+      "tags": [
+        "startups",
+        "news",
+        "vc"
+      ],
+      "description": "Tech and startup news",
+      "similar": [
+        "theverge.com",
+        "arstechnica.com"
+      ]
+    },
+    {
+      "url": "theverge.com",
+      "name": "The Verge",
+      "category": "tech",
+      "tags": [
+        "tech",
+        "culture",
+        "reviews"
+      ],
+      "description": "Tech news and culture",
+      "similar": [
+        "techcrunch.com",
+        "engadget.com"
+      ]
+    },
+    {
+      "url": "arstechnica.com",
+      "name": "Ars Technica",
+      "category": "tech",
+      "tags": [
+        "tech",
+        "science",
+        "in-depth"
+      ],
+      "description": "In-depth tech coverage",
+      "similar": [
+        "theverge.com",
+        "wired.com"
+      ]
+    },
+    {
+      "url": "wired.com",
+      "name": "WIRED",
+      "category": "tech",
+      "tags": [
+        "tech",
+        "culture",
+        "future"
+      ],
+      "description": "Tech and culture magazine",
+      "similar": [
+        "arstechnica.com",
+        "theverge.com"
+      ]
+    },
+    {
+      "url": "engadget.com",
+      "name": "Engadget",
+      "category": "tech",
+      "tags": [
+        "gadgets",
+        "consumer-tech",
+        "reviews"
+      ],
+      "description": "Consumer tech and gadgets",
+      "similar": [
+        "theverge.com",
+        "gizmodo.com"
+      ]
+    },
+    {
+      "url": "gizmodo.com",
+      "name": "Gizmodo",
+      "category": "tech",
+      "tags": [
+        "gadgets",
+        "science",
+        "culture"
+      ],
+      "description": "Tech and science blog",
+      "similar": [
+        "engadget.com",
+        "lifehacker.com"
+      ]
+    },
+    {
+      "url": "daringfireball.net",
+      "name": "Daring Fireball",
+      "category": "tech",
+      "tags": [
+        "apple",
+        "design",
+        "commentary"
+      ],
+      "description": "Apple and tech commentary",
+      "similar": [
+        "sixcolors.com",
+        "macstories.net"
+      ]
+    },
+    {
+      "url": "macstories.net",
+      "name": "MacStories",
+      "category": "tech",
+      "tags": [
+        "apple",
+        "ios",
+        "productivity"
+      ],
+      "description": "Apple and iOS coverage",
+      "similar": [
+        "daringfireball.net",
+        "9to5mac.com"
+      ]
+    },
+    {
+      "url": "alternativeto.net",
+      "name": "AlternativeTo",
+      "category": "tech",
+      "tags": [
+        "software",
+        "alternatives",
+        "recommendations"
+      ],
+      "description": "Software alternatives",
+      "similar": [
+        "slant.co",
+        "producthunt.com"
+      ]
+    },
+    {
+      "url": "reddit.com",
+      "name": "Reddit",
+      "category": "community",
+      "tags": [
+        "discussion",
+        "aggregation",
+        "social"
+      ],
+      "description": "Social news aggregation",
+      "similar": [
+        "old.reddit.com",
+        "lemmy.ml"
+      ]
+    },
+    {
+      "url": "old.reddit.com",
+      "name": "Old Reddit",
+      "category": "community",
+      "tags": [
+        "discussion",
+        "classic-ui",
+        "social"
+      ],
+      "description": "Classic Reddit interface",
+      "similar": [
+        "reddit.com",
+        "lemmy.ml"
+      ]
+    },
+    {
+      "url": "reddit.com/r/programming",
+      "name": "r/programming",
+      "category": "tech",
+      "tags": [
+        "programming",
+        "community",
+        "news"
+      ],
+      "description": "Programming subreddit",
+      "similar": [
+        "news.ycombinator.com",
+        "lobste.rs"
+      ]
+    },
+    {
+      "url": "reddit.com/r/indieheads",
+      "name": "r/indieheads",
+      "category": "music",
+      "tags": [
+        "indie",
+        "community",
+        "discussion"
+      ],
+      "description": "Indie music community",
+      "similar": [
+        "pitchfork.com",
+        "stereogum.com"
+      ]
+    },
+    {
+      "url": "reddit.com/r/listentothis",
+      "name": "r/listentothis",
+      "category": "music",
+      "tags": [
+        "discovery",
+        "new-music",
+        "community"
+      ],
+      "description": "Music discovery subreddit",
+      "similar": [
+        "bandcamp.com",
+        "soundcloud.com"
+      ]
+    },
+    {
+      "url": "reddit.com/r/games",
+      "name": "r/games",
+      "category": "games",
+      "tags": [
+        "gaming",
+        "discussion",
+        "quality"
+      ],
+      "description": "Quality gaming discussion",
+      "similar": [
+        "rockpapershotgun.com",
+        "eurogamer.net"
+      ]
+    },
+    {
+      "url": "reddit.com/r/indiegaming",
+      "name": "r/indiegaming",
+      "category": "games",
+      "tags": [
+        "indie",
+        "community",
+        "devs"
+      ],
+      "description": "Indie game community",
+      "similar": [
+        "itch.io",
+        "tigsource.com"
+      ]
+    },
+    {
+      "url": "reddit.com/r/gamedev",
+      "name": "r/gamedev",
+      "category": "games",
+      "tags": [
+        "development",
+        "community",
+        "learning"
+      ],
+      "description": "Game development community",
+      "similar": [
+        "tigsource.com",
+        "indiedb.com"
+      ]
+    },
+    {
+      "url": "kottke.org",
+      "name": "Kottke.org",
+      "category": "blog",
+      "tags": [
+        "culture",
+        "links",
+        "design"
+      ],
+      "description": "Links and commentary",
+      "similar": [
+        "waxy.org",
+        "daringfireball.net",
+        "metafilter.com"
+      ]
+    },
+    {
+      "url": "waxy.org",
+      "name": "Waxy",
+      "category": "blog",
+      "tags": [
+        "links",
+        "culture",
+        "internet"
+      ],
+      "description": "Personal blog",
+      "similar": [
+        "kottke.org",
+        "boingboing.net"
+      ]
+    },
+    {
+      "url": "boingboing.net",
+      "name": "Boing Boing",
+      "category": "blog",
+      "tags": [
+        "weird",
+        "culture",
+        "tech"
+      ],
+      "description": "Wonderful things",
+      "similar": [
+        "kottke.org",
+        "waxy.org"
+      ]
+    },
+    {
+      "url": "metafilter.com",
+      "name": "MetaFilter",
+      "category": "community",
+      "tags": [
+        "community",
+        "weblog",
+        "discussion"
+      ],
+      "description": "Community weblog",
+      "similar": [
+        "kottke.org",
+        "reddit.com"
+      ]
+    },
+    {
+      "url": "themarginalian.org",
+      "name": "The Marginalian",
+      "category": "blog",
+      "tags": [
+        "literature",
+        "philosophy",
+        "art"
+      ],
+      "description": "Literature and philosophy",
+      "similar": [
+        "aeon.co",
+        "aldaily.com"
+      ]
+    },
+    {
+      "url": "medium.com",
+      "name": "Medium",
+      "category": "writing",
+      "tags": [
+        "blogging",
+        "essays",
+        "platform"
+      ],
+      "description": "Online publishing",
+      "similar": [
+        "substack.com",
+        "ghost.org"
+      ]
+    },
+    {
+      "url": "substack.com",
+      "name": "Substack",
+      "category": "writing",
+      "tags": [
+        "newsletters",
+        "independent",
+        "writers"
+      ],
+      "description": "Newsletter platform",
+      "similar": [
+        "medium.com",
+        "ghost.org",
+        "beehiiv.com"
+      ]
+    },
+    {
+      "url": "bearblog.dev",
+      "name": "Bear Blog",
+      "category": "writing",
+      "tags": [
+        "blogging",
+        "minimalist",
+        "privacy"
+      ],
+      "description": "Privacy-first blogging",
+      "similar": [
+        "write.as",
+        "neocities.org"
+      ]
+    },
+    {
+      "url": "write.as",
+      "name": "Write.as",
+      "category": "writing",
+      "tags": [
+        "blogging",
+        "minimalist",
+        "anonymous"
+      ],
+      "description": "Anonymous blogging",
+      "similar": [
+        "bearblog.dev",
+        "medium.com"
+      ]
+    },
+    {
+      "url": "ghost.org",
+      "name": "Ghost",
+      "category": "writing",
+      "tags": [
+        "blogging",
+        "cms",
+        "professional"
+      ],
+      "description": "Professional publishing",
+      "similar": [
+        "medium.com",
+        "substack.com"
+      ]
+    },
+    {
+      "url": "aeon.co",
+      "name": "Aeon",
+      "category": "writing",
+      "tags": [
+        "essays",
+        "philosophy",
+        "science"
+      ],
+      "description": "Essays and ideas",
+      "similar": [
+        "longreads.com",
+        "aldaily.com"
+      ]
+    },
+    {
+      "url": "longreads.com",
+      "name": "Longreads",
+      "category": "writing",
+      "tags": [
+        "long-form",
+        "journalism",
+        "curation"
+      ],
+      "description": "Long-form journalism",
+      "similar": [
+        "aeon.co",
+        "thebrowser.com"
+      ]
+    },
+    {
+      "url": "thebrowser.com",
+      "name": "The Browser",
+      "category": "writing",
+      "tags": [
+        "curation",
+        "articles",
+        "recommendations"
+      ],
+      "description": "Five articles daily",
+      "similar": [
+        "longreads.com",
+        "aldaily.com"
+      ]
+    },
+    {
+      "url": "aldaily.com",
+      "name": "Arts & Letters Daily",
+      "category": "writing",
+      "tags": [
+        "philosophy",
+        "culture",
+        "academia"
+      ],
+      "description": "Ideas and criticism",
+      "similar": [
+        "aeon.co",
+        "thebrowser.com"
+      ]
+    },
+    {
+      "url": "letterboxd.com",
+      "name": "Letterboxd",
+      "category": "film",
+      "tags": [
+        "reviews",
+        "social",
+        "diary"
+      ],
+      "description": "Film diary and reviews",
+      "similar": [
+        "imdb.com",
+        "criticker.com"
+      ]
+    },
+    {
+      "url": "imdb.com",
+      "name": "IMDb",
+      "category": "film",
+      "tags": [
+        "database",
+        "mainstream",
+        "ratings"
+      ],
+      "description": "Film and TV database",
+      "similar": [
+        "letterboxd.com",
+        "themoviedb.org"
+      ]
+    },
+    {
+      "url": "criterion.com",
+      "name": "Criterion Collection",
+      "category": "film",
+      "tags": [
+        "classic",
+        "arthouse",
+        "curated"
+      ],
+      "description": "Classic cinema",
+      "similar": [
+        "mubi.com",
+        "kanopy.com"
+      ]
+    },
+    {
+      "url": "mubi.com",
+      "name": "MUBI",
+      "category": "film",
+      "tags": [
+        "arthouse",
+        "curated",
+        "streaming"
+      ],
+      "description": "Curated film streaming",
+      "similar": [
+        "criterion.com",
+        "letterboxd.com"
+      ]
+    },
+    {
+      "url": "rogerebert.com",
+      "name": "RogerEbert.com",
+      "category": "film",
+      "tags": [
+        "reviews",
+        "criticism",
+        "journalism"
+      ],
+      "description": "Film criticism",
+      "similar": [
+        "avclub.com",
+        "indiewire.com"
+      ]
+    },
+    {
+      "url": "avclub.com",
+      "name": "The A.V. Club",
+      "category": "film",
+      "tags": [
+        "pop-culture",
+        "reviews",
+        "tv"
+      ],
+      "description": "Pop culture coverage",
+      "similar": [
+        "rogerebert.com",
+        "vulture.com"
+      ]
+    },
+    {
+      "url": "vulture.com",
+      "name": "Vulture",
+      "category": "film",
+      "tags": [
+        "entertainment",
+        "tv",
+        "culture"
+      ],
+      "description": "Entertainment and culture",
+      "similar": [
+        "avclub.com",
+        "hollywoodreporter.com"
+      ]
+    },
+    {
+      "url": "indiewire.com",
+      "name": "IndieWire",
+      "category": "film",
+      "tags": [
+        "indie",
+        "film-news",
+        "criticism"
+      ],
+      "description": "Independent film news",
+      "similar": [
+        "rogerebert.com",
+        "hollywoodreporter.com"
+      ]
+    },
+    {
+      "url": "goodreads.com",
+      "name": "Goodreads",
+      "category": "books",
+      "tags": [
+        "reviews",
+        "tracking",
+        "social"
+      ],
+      "description": "Book reviews and tracking",
+      "similar": [
+        "librarything.com",
+        "thestorygraph.com"
+      ]
+    },
+    {
+      "url": "librarything.com",
+      "name": "LibraryThing",
+      "category": "books",
+      "tags": [
+        "cataloging",
+        "community",
+        "collectors"
+      ],
+      "description": "Book cataloging",
+      "similar": [
+        "goodreads.com",
+        "thestorygraph.com"
+      ]
+    },
+    {
+      "url": "thestorygraph.com",
+      "name": "The StoryGraph",
+      "category": "books",
+      "tags": [
+        "tracking",
+        "recommendations",
+        "stats"
+      ],
+      "description": "Book tracking and stats",
+      "similar": [
+        "goodreads.com",
+        "librarything.com"
+      ]
+    },
+    {
+      "url": "gutenberg.org",
+      "name": "Project Gutenberg",
+      "category": "books",
+      "tags": [
+        "free",
+        "public-domain",
+        "classics"
+      ],
+      "description": "Free ebooks",
+      "similar": [
+        "archive.org",
+        "standardebooks.org"
+      ]
+    },
+    {
+      "url": "standardebooks.org",
+      "name": "Standard Ebooks",
+      "category": "books",
+      "tags": [
+        "free",
+        "public-domain",
+        "quality"
+      ],
+      "description": "Quality public domain ebooks",
+      "similar": [
+        "gutenberg.org",
+        "archive.org"
+      ]
+    },
+    {
+      "url": "dribbble.com",
+      "name": "Dribbble",
+      "category": "design",
+      "tags": [
+        "design",
+        "portfolio",
+        "inspiration"
+      ],
+      "description": "Design showcase",
+      "similar": [
+        "behance.net",
+        "awwwards.com"
+      ]
+    },
+    {
+      "url": "behance.net",
+      "name": "Behance",
+      "category": "design",
+      "tags": [
+        "design",
+        "portfolio",
+        "adobe"
+      ],
+      "description": "Creative portfolios",
+      "similar": [
+        "dribbble.com",
+        "artstation.com"
+      ]
+    },
+    {
+      "url": "awwwards.com",
+      "name": "Awwwards",
+      "category": "design",
+      "tags": [
+        "web-design",
+        "awards",
+        "inspiration"
+      ],
+      "description": "Web design awards",
+      "similar": [
+        "dribbble.com",
+        "siteinspire.com"
+      ]
+    },
+    {
+      "url": "siteinspire.com",
+      "name": "SiteInspire",
+      "category": "design",
+      "tags": [
+        "web-design",
+        "showcase",
+        "inspiration"
+      ],
+      "description": "Web design gallery",
+      "similar": [
+        "awwwards.com",
+        "cssdesignawards.com"
+      ]
+    },
+    {
+      "url": "designspiration.com",
+      "name": "Designspiration",
+      "category": "design",
+      "tags": [
+        "inspiration",
+        "visual",
+        "creative"
+      ],
+      "description": "Design inspiration",
+      "similar": [
+        "dribbble.com",
+        "pinterest.com"
+      ]
+    },
+    {
+      "url": "deviantart.com",
+      "name": "DeviantArt",
+      "category": "art",
+      "tags": [
+        "art",
+        "community",
+        "fan-art"
+      ],
+      "description": "Art community",
+      "similar": [
+        "artstation.com",
+        "pixiv.net"
+      ]
+    },
+    {
+      "url": "artstation.com",
+      "name": "ArtStation",
+      "category": "art",
+      "tags": [
+        "digital-art",
+        "professional",
+        "portfolio"
+      ],
+      "description": "Professional art portfolios",
+      "similar": [
+        "behance.net",
+        "deviantart.com"
+      ]
+    },
+    {
+      "url": "pixiv.net",
+      "name": "Pixiv",
+      "category": "art",
+      "tags": [
+        "art",
+        "japanese",
+        "manga"
+      ],
+      "description": "Japanese art community",
+      "similar": [
+        "deviantart.com",
+        "artstation.com"
+      ]
+    },
+    {
+      "url": "unsplash.com",
+      "name": "Unsplash",
+      "category": "photography",
+      "tags": [
+        "free",
+        "stock",
+        "high-quality"
+      ],
+      "description": "Free stock photos",
+      "similar": [
+        "pexels.com",
+        "pixabay.com"
+      ]
+    },
+    {
+      "url": "pexels.com",
+      "name": "Pexels",
+      "category": "photography",
+      "tags": [
+        "free",
+        "stock",
+        "videos"
+      ],
+      "description": "Free photos and videos",
+      "similar": [
+        "unsplash.com",
+        "pixabay.com"
+      ]
+    },
+    {
+      "url": "500px.com",
+      "name": "500px",
+      "category": "photography",
+      "tags": [
+        "photography",
+        "community",
+        "professional"
+      ],
+      "description": "Photography community",
+      "similar": [
+        "flickr.com",
+        "unsplash.com"
+      ]
+    },
+    {
+      "url": "flickr.com",
+      "name": "Flickr",
+      "category": "photography",
+      "tags": [
+        "photography",
+        "sharing",
+        "community"
+      ],
+      "description": "Photo sharing",
+      "similar": [
+        "500px.com",
+        "instagram.com"
+      ]
+    },
+    {
+      "url": "freecodecamp.org",
+      "name": "freeCodeCamp",
+      "category": "education",
+      "tags": [
+        "programming",
+        "free",
+        "certification"
+      ],
+      "description": "Free coding education",
+      "similar": [
+        "codecademy.com",
+        "theodinproject.com"
+      ]
+    },
+    {
+      "url": "codecademy.com",
+      "name": "Codecademy",
+      "category": "education",
+      "tags": [
+        "programming",
+        "interactive",
+        "courses"
+      ],
+      "description": "Interactive coding courses",
+      "similar": [
+        "freecodecamp.org",
+        "datacamp.com"
+      ]
+    },
+    {
+      "url": "theodinproject.com",
+      "name": "The Odin Project",
+      "category": "education",
+      "tags": [
+        "web-dev",
+        "free",
+        "full-stack"
+      ],
+      "description": "Full-stack curriculum",
+      "similar": [
+        "freecodecamp.org",
+        "codecademy.com"
+      ]
+    },
+    {
+      "url": "leetcode.com",
+      "name": "LeetCode",
+      "category": "education",
+      "tags": [
+        "coding-challenges",
+        "interview-prep",
+        "algorithms"
+      ],
+      "description": "Coding interview prep",
+      "similar": [
+        "hackerrank.com",
+        "codewars.com"
+      ]
+    },
+    {
+      "url": "hackerrank.com",
+      "name": "HackerRank",
+      "category": "education",
+      "tags": [
+        "coding-challenges",
+        "skills",
+        "jobs"
+      ],
+      "description": "Coding challenges",
+      "similar": [
+        "leetcode.com",
+        "coderbyte.com"
+      ]
+    },
+    {
+      "url": "codewars.com",
+      "name": "Codewars",
+      "category": "education",
+      "tags": [
+        "coding-challenges",
+        "community",
+        "kata"
+      ],
+      "description": "Coding kata practice",
+      "similar": [
+        "leetcode.com",
+        "exercism.org"
+      ]
+    },
+    {
+      "url": "exercism.org",
+      "name": "Exercism",
+      "category": "education",
+      "tags": [
+        "coding-challenges",
+        "mentorship",
+        "free"
+      ],
+      "description": "Code practice with mentorship",
+      "similar": [
+        "codewars.com",
+        "freecodecamp.org"
+      ]
+    },
+    {
+      "url": "khanacademy.org",
+      "name": "Khan Academy",
+      "category": "education",
+      "tags": [
+        "free",
+        "k-12",
+        "math"
+      ],
+      "description": "Free education",
+      "similar": [
+        "edx.org",
+        "coursera.org"
+      ]
+    },
+    {
+      "url": "coursera.org",
+      "name": "Coursera",
+      "category": "education",
+      "tags": [
+        "mooc",
+        "university",
+        "certificates"
+      ],
+      "description": "Online university courses",
+      "similar": [
+        "edx.org",
+        "udacity.com"
+      ]
+    },
+    {
+      "url": "edx.org",
+      "name": "edX",
+      "category": "education",
+      "tags": [
+        "mooc",
+        "university",
+        "free"
+      ],
+      "description": "University courses",
+      "similar": [
+        "coursera.org",
+        "khanacademy.org"
+      ]
+    },
+    {
+      "url": "udacity.com",
+      "name": "Udacity",
+      "category": "education",
+      "tags": [
+        "tech",
+        "nanodegree",
+        "career"
+      ],
+      "description": "Tech nanodegrees",
+      "similar": [
+        "coursera.org",
+        "pluralsight.com"
+      ]
+    },
+    {
+      "url": "notion.so",
+      "name": "Notion",
+      "category": "productivity",
+      "tags": [
+        "notes",
+        "workspace",
+        "collaboration"
+      ],
+      "description": "All-in-one workspace",
+      "similar": [
+        "obsidian.md",
+        "roamresearch.com"
+      ]
+    },
+    {
+      "url": "obsidian.md",
+      "name": "Obsidian",
+      "category": "productivity",
+      "tags": [
+        "notes",
+        "markdown",
+        "knowledge-graph"
+      ],
+      "description": "Knowledge management",
+      "similar": [
+        "notion.so",
+        "logseq.com"
+      ]
+    },
+    {
+      "url": "logseq.com",
+      "name": "Logseq",
+      "category": "productivity",
+      "tags": [
+        "notes",
+        "open-source",
+        "privacy"
+      ],
+      "description": "Privacy-first knowledge base",
+      "similar": [
+        "obsidian.md",
+        "roamresearch.com"
+      ]
+    },
+    {
+      "url": "are.na",
+      "name": "Are.na",
+      "category": "curation",
+      "tags": [
+        "visual",
+        "bookmarking",
+        "research"
+      ],
+      "description": "Visual research platform",
+      "similar": [
+        "cosmos.so",
+        "raindrop.io"
+      ]
+    },
+    {
+      "url": "cosmos.so",
+      "name": "Cosmos",
+      "category": "curation",
+      "tags": [
+        "bookmarking",
+        "visual",
+        "notes"
+      ],
+      "description": "Visual bookmarking",
+      "similar": [
+        "are.na",
+        "raindrop.io"
+      ]
+    },
+    {
+      "url": "raindrop.io",
+      "name": "Raindrop",
+      "category": "curation",
+      "tags": [
+        "bookmarking",
+        "organization",
+        "tags"
+      ],
+      "description": "Bookmark manager",
+      "similar": [
+        "cosmos.so",
+        "are.na",
+        "pinboard.in"
+      ]
+    },
+    {
+      "url": "pinboard.in",
+      "name": "Pinboard",
+      "category": "curation",
+      "tags": [
+        "bookmarking",
+        "simple",
+        "paid"
+      ],
+      "description": "Bookmarking service",
+      "similar": [
+        "raindrop.io",
+        "instapaper.com"
+      ]
+    },
+    {
+      "url": "pinterest.com",
+      "name": "Pinterest",
+      "category": "curation",
+      "tags": [
+        "visual",
+        "discovery",
+        "inspiration"
+      ],
+      "description": "Visual discovery",
+      "similar": [
+        "are.na",
+        "cosmos.so"
+      ]
+    },
+    {
+      "url": "mastodon.social",
+      "name": "Mastodon",
+      "category": "community",
+      "tags": [
+        "federated",
+        "social",
+        "twitter-alternative"
+      ],
+      "description": "Federated social network",
+      "similar": [
+        "beehaw.org",
+        "lemmy.ml"
+      ]
+    },
+    {
+      "url": "lemmy.ml",
+      "name": "Lemmy",
+      "category": "community",
+      "tags": [
+        "federated",
+        "reddit-alternative",
+        "open-source"
+      ],
+      "description": "Federated link aggregator",
+      "similar": [
+        "reddit.com",
+        "beehaw.org"
+      ]
+    },
+    {
+      "url": "beehaw.org",
+      "name": "Beehaw",
+      "category": "community",
+      "tags": [
+        "federated",
+        "moderated",
+        "friendly"
+      ],
+      "description": "Friendly federated community",
+      "similar": [
+        "lemmy.ml",
+        "mastodon.social"
+      ]
+    },
+    {
+      "url": "tumblr.com",
+      "name": "Tumblr",
+      "category": "community",
+      "tags": [
+        "blogging",
+        "social",
+        "creative"
+      ],
+      "description": "Microblogging platform",
+      "similar": [
+        "mastodon.social",
+        "cohost.org"
+      ]
+    },
+    {
+      "url": "cohost.org",
+      "name": "Cohost",
+      "category": "community",
+      "tags": [
+        "social",
+        "chronological",
+        "artists"
+      ],
+      "description": "Artist-friendly platform",
+      "similar": [
+        "tumblr.com",
+        "mastodon.social"
+      ]
+    },
+    {
+      "url": "theguardian.com",
+      "name": "The Guardian",
+      "category": "news",
+      "tags": [
+        "journalism",
+        "international",
+        "progressive"
+      ],
+      "description": "UK news and journalism",
+      "similar": [
+        "nytimes.com",
+        "bbc.com"
+      ]
+    },
+    {
+      "url": "nytimes.com",
+      "name": "New York Times",
+      "category": "news",
+      "tags": [
+        "journalism",
+        "us",
+        "in-depth"
+      ],
+      "description": "US news and journalism",
+      "similar": [
+        "theguardian.com",
+        "washingtonpost.com"
+      ]
+    },
+    {
+      "url": "bbc.com",
+      "name": "BBC",
+      "category": "news",
+      "tags": [
+        "journalism",
+        "uk",
+        "international"
+      ],
+      "description": "British news",
+      "similar": [
+        "theguardian.com",
+        "reuters.com"
+      ]
+    },
+    {
+      "url": "reuters.com",
+      "name": "Reuters",
+      "category": "news",
+      "tags": [
+        "journalism",
+        "wire",
+        "factual"
+      ],
+      "description": "News wire service",
+      "similar": [
+        "apnews.com",
+        "bbc.com"
+      ]
+    },
+    {
+      "url": "apnews.com",
+      "name": "Associated Press",
+      "category": "news",
+      "tags": [
+        "journalism",
+        "wire",
+        "neutral"
+      ],
+      "description": "News wire service",
+      "similar": [
+        "reuters.com",
+        "bbc.com"
+      ]
+    },
+    {
+      "url": "propublica.org",
+      "name": "ProPublica",
+      "category": "news",
+      "tags": [
+        "investigative",
+        "nonprofit",
+        "journalism"
+      ],
+      "description": "Investigative journalism",
+      "similar": [
+        "theguardian.com",
+        "nytimes.com"
+      ]
+    },
+    {
+      "url": "arxiv.org",
+      "name": "arXiv",
+      "category": "science",
+      "tags": [
+        "preprints",
+        "research",
+        "open-access"
+      ],
+      "description": "Research preprints",
+      "similar": [
+        "scholar.google.com",
+        "biorxiv.org"
+      ]
+    },
+    {
+      "url": "scholar.google.com",
+      "name": "Google Scholar",
+      "category": "science",
+      "tags": [
+        "academic",
+        "search",
+        "papers"
+      ],
+      "description": "Academic search",
+      "similar": [
+        "arxiv.org",
+        "semanticscholar.org"
+      ]
+    },
+    {
+      "url": "pubmed.gov",
+      "name": "PubMed",
+      "category": "science",
+      "tags": [
+        "medical",
+        "research",
+        "database"
+      ],
+      "description": "Medical research database",
+      "similar": [
+        "scholar.google.com",
+        "arxiv.org"
+      ]
+    },
+    {
+      "url": "seriouseats.com",
+      "name": "Serious Eats",
+      "category": "cooking",
+      "tags": [
+        "recipes",
+        "science",
+        "technique"
+      ],
+      "description": "Food science and recipes",
+      "similar": [
+        "bonappetit.com",
+        "thekitchn.com"
+      ]
+    },
+    {
+      "url": "bonappetit.com",
+      "name": "Bon App\u00e9tit",
+      "category": "cooking",
+      "tags": [
+        "recipes",
+        "magazine",
+        "food-culture"
+      ],
+      "description": "Food magazine",
+      "similar": [
+        "seriouseats.com",
+        "food52.com"
+      ]
+    },
+    {
+      "url": "thekitchn.com",
+      "name": "The Kitchn",
+      "category": "cooking",
+      "tags": [
+        "recipes",
+        "home-cooking",
+        "tips"
+      ],
+      "description": "Home cooking resource",
+      "similar": [
+        "seriouseats.com",
+        "food52.com"
+      ]
+    },
+    {
+      "url": "food52.com",
+      "name": "Food52",
+      "category": "cooking",
+      "tags": [
+        "recipes",
+        "community",
+        "cooking"
+      ],
+      "description": "Community recipes",
+      "similar": [
+        "bonappetit.com",
+        "thekitchn.com"
+      ]
+    },
+    {
+      "url": "smbc-comics.com",
+      "name": "SMBC",
+      "category": "comics",
+      "tags": [
+        "webcomic",
+        "science",
+        "humor"
+      ],
+      "description": "Science humor webcomic",
+      "similar": [
+        "xkcd.com",
+        "poorlydrawnlines.com"
+      ]
+    },
+    {
+      "url": "xkcd.com",
+      "name": "xkcd",
+      "category": "comics",
+      "tags": [
+        "webcomic",
+        "science",
+        "tech"
+      ],
+      "description": "Tech and science comic",
+      "similar": [
+        "smbc-comics.com",
+        "dinosaurcomic.com"
+      ]
+    },
+    {
+      "url": "theoatmeal.com",
+      "name": "The Oatmeal",
+      "category": "comics",
+      "tags": [
+        "webcomic",
+        "humor",
+        "cats"
+      ],
+      "description": "Humor comics",
+      "similar": [
+        "xkcd.com",
+        "hyperboleandahalf.blogspot.com"
+      ]
+    },
+    {
+      "url": "en.wikipedia.org",
+      "name": "Wikipedia (English)",
+      "category": "reference",
+      "tags": [
+        "encyclopedia",
+        "knowledge",
+        "free"
+      ],
+      "description": "English Wikipedia",
+      "similar": [
+        "de.wikipedia.org",
+        "simple.wikipedia.org"
+      ]
+    },
+    {
+      "url": "de.wikipedia.org",
+      "name": "Wikipedia (Deutsch)",
+      "category": "reference",
+      "tags": [
+        "encyclopedia",
+        "german",
+        "knowledge"
+      ],
+      "description": "German Wikipedia",
+      "similar": [
+        "en.wikipedia.org",
+        "fr.wikipedia.org"
+      ]
+    },
+    {
+      "url": "fr.wikipedia.org",
+      "name": "Wikipedia (Fran\u00e7ais)",
+      "category": "reference",
+      "tags": [
+        "encyclopedia",
+        "french",
+        "knowledge"
+      ],
+      "description": "French Wikipedia",
+      "similar": [
+        "en.wikipedia.org",
+        "de.wikipedia.org"
+      ]
+    },
+    {
+      "url": "simple.wikipedia.org",
+      "name": "Simple English Wikipedia",
+      "category": "reference",
+      "tags": [
+        "encyclopedia",
+        "simple",
+        "learning"
+      ],
+      "description": "Simplified Wikipedia",
+      "similar": [
+        "en.wikipedia.org",
+        "britannica.com"
+      ]
+    },
+    {
+      "url": "archive.org",
+      "name": "Internet Archive",
+      "category": "reference",
+      "tags": [
+        "archive",
+        "preservation",
+        "wayback"
+      ],
+      "description": "Digital library",
+      "similar": [
+        "en.wikipedia.org",
+        "gutenberg.org"
+      ]
+    },
+    {
+      "url": "britannica.com",
+      "name": "Encyclopedia Britannica",
+      "category": "reference",
+      "tags": [
+        "encyclopedia",
+        "trusted",
+        "premium"
+      ],
+      "description": "Encyclopedia",
+      "similar": [
+        "en.wikipedia.org",
+        "worldcat.org"
+      ]
+    },
+    {
+      "url": "youtube.com",
+      "name": "YouTube",
+      "category": "video",
+      "tags": [
+        "video",
+        "streaming",
+        "mainstream"
+      ],
+      "description": "Video sharing platform",
+      "similar": [
+        "vimeo.com",
+        "dailymotion.com"
+      ]
+    },
+    {
+      "url": "vimeo.com",
+      "name": "Vimeo",
+      "category": "video",
+      "tags": [
+        "video",
+        "creative",
+        "high-quality"
+      ],
+      "description": "Video platform for creators",
+      "similar": [
+        "youtube.com",
+        "peertube.tv"
+      ]
+    },
+    {
+      "url": "nebula.tv",
+      "name": "Nebula",
+      "category": "video",
+      "tags": [
+        "video",
+        "creator-owned",
+        "education"
+      ],
+      "description": "Creator-owned platform",
+      "similar": [
+        "curiositystream.com",
+        "youtube.com"
+      ]
+    },
+    {
+      "url": "overcast.fm",
+      "name": "Overcast",
+      "category": "podcasts",
+      "tags": [
+        "podcast-player",
+        "ios",
+        "smart-speed"
+      ],
+      "description": "Podcast player",
+      "similar": [
+        "pocketcasts.com",
+        "castro.fm"
+      ]
+    },
+    {
+      "url": "pocketcasts.com",
+      "name": "Pocket Casts",
+      "category": "podcasts",
+      "tags": [
+        "podcast-player",
+        "cross-platform",
+        "discovery"
+      ],
+      "description": "Podcast player",
+      "similar": [
+        "overcast.fm",
+        "spotify.com"
+      ]
+    },
+    {
+      "url": "neocities.org",
+      "name": "Neocities",
+      "category": "web",
+      "tags": [
+        "personal-sites",
+        "retro",
+        "community"
+      ],
+      "description": "Free personal websites",
+      "similar": [
+        "bearblog.dev",
+        "carrd.co"
+      ]
+    },
+    {
+      "url": "carrd.co",
+      "name": "Carrd",
+      "category": "web",
+      "tags": [
+        "one-page",
+        "simple",
+        "landing-pages"
+      ],
+      "description": "Simple one-page sites",
+      "similar": [
+        "neocities.org",
+        "linktree.com"
+      ]
+    },
+    {
+      "url": "hotnewhiphop.com",
+      "name": "HotNewHipHop",
+      "category": "music",
+      "tags": [
+        "hip-hop",
+        "rap",
+        "news"
+      ],
+      "description": "Hip hop music and news",
+      "similar": [
+        "complex.com",
+        "xxlmag.com"
+      ]
+    },
+    {
+      "url": "complex.com",
+      "name": "Complex",
+      "category": "music",
+      "tags": [
+        "hip-hop",
+        "culture",
+        "sneakers"
+      ],
+      "description": "Hip hop and culture",
+      "similar": [
+        "hotnewhiphop.com",
+        "thefader.com"
+      ]
+    },
+    {
+      "url": "thefader.com",
+      "name": "The FADER",
+      "category": "music",
+      "tags": [
+        "music",
+        "culture",
+        "fashion"
+      ],
+      "description": "Music and culture magazine",
+      "similar": [
+        "complex.com",
+        "pitchfork.com"
+      ]
+    },
+    {
+      "url": "djbooth.net",
+      "name": "DJBooth",
+      "category": "music",
+      "tags": [
+        "hip-hop",
+        "rap",
+        "features"
+      ],
+      "description": "Hip hop features and news",
+      "similar": [
+        "hotnewhiphop.com",
+        "complex.com"
+      ]
+    },
+    {
+      "url": "savingcountrymusic.com",
+      "name": "Saving Country Music",
+      "category": "music",
+      "tags": [
+        "country",
+        "americana",
+        "traditional"
+      ],
+      "description": "Country music criticism",
+      "similar": [
+        "americansongwriter.com",
+        "rollingstone.com"
+      ]
+    },
+    {
+      "url": "americansongwriter.com",
+      "name": "American Songwriter",
+      "category": "music",
+      "tags": [
+        "songwriting",
+        "americana",
+        "folk"
+      ],
+      "description": "Songwriting and americana",
+      "similar": [
+        "savingcountrymusic.com",
+        "pastemagazine.com"
+      ]
+    },
+    {
+      "url": "nodepression.com",
+      "name": "No Depression",
+      "category": "music",
+      "tags": [
+        "americana",
+        "roots",
+        "country"
+      ],
+      "description": "Roots music journal",
+      "similar": [
+        "americansongwriter.com",
+        "pastemagazine.com"
+      ]
+    },
+    {
+      "url": "allaboutjazz.com",
+      "name": "All About Jazz",
+      "category": "music",
+      "tags": [
+        "jazz",
+        "reviews",
+        "database"
+      ],
+      "description": "Jazz music resource",
+      "similar": [
+        "downbeat.com",
+        "jazziz.com"
+      ]
+    },
+    {
+      "url": "gramophone.co.uk",
+      "name": "Gramophone",
+      "category": "music",
+      "tags": [
+        "classical",
+        "reviews",
+        "recordings"
+      ],
+      "description": "Classical music magazine",
+      "similar": [
+        "classicfm.com",
+        "bachtrack.com"
+      ]
+    },
+    {
+      "url": "retronauts.com",
+      "name": "Retronauts",
+      "category": "games",
+      "tags": [
+        "retro",
+        "podcast",
+        "classic"
+      ],
+      "description": "Retro gaming podcast",
+      "similar": [
+        "noclip.video",
+        "hardcoregaming101.net"
+      ]
+    },
+    {
+      "url": "hardcoregaming101.net",
+      "name": "Hardcore Gaming 101",
+      "category": "games",
+      "tags": [
+        "retro",
+        "database",
+        "history"
+      ],
+      "description": "Gaming history and reviews",
+      "similar": [
+        "retronauts.com",
+        "racketboy.com"
+      ]
+    },
+    {
+      "url": "speedrun.com",
+      "name": "Speedrun.com",
+      "category": "games",
+      "tags": [
+        "speedrunning",
+        "leaderboards",
+        "community"
+      ],
+      "description": "Speedrun leaderboards",
+      "similar": [
+        "twitch.tv",
+        "youtube.com"
+      ]
+    },
+    {
+      "url": "liquidpedia.net",
+      "name": "Liquipedia",
+      "category": "games",
+      "tags": [
+        "esports",
+        "wiki",
+        "competitive"
+      ],
+      "description": "Esports wiki",
+      "similar": [
+        "esportspedia.com",
+        "dotabuff.com"
+      ]
+    },
+    {
+      "url": "krebs onsecurity.com",
+      "name": "Krebs on Security",
+      "category": "tech",
+      "tags": [
+        "security",
+        "cybersecurity",
+        "investigation"
+      ],
+      "description": "Cybersecurity news",
+      "similar": [
+        "schneier.com",
+        "theregister.com"
+      ]
+    },
+    {
+      "url": "schneier.com",
+      "name": "Schneier on Security",
+      "category": "tech",
+      "tags": [
+        "security",
+        "cryptography",
+        "privacy"
+      ],
+      "description": "Security and privacy blog",
+      "similar": [
+        "krebsonsecurity.com",
+        "troyhunt.com"
+      ]
+    },
+    {
+      "url": "troyhunt.com",
+      "name": "Troy Hunt",
+      "category": "tech",
+      "tags": [
+        "security",
+        "data-breaches",
+        "privacy"
+      ],
+      "description": "Security researcher blog",
+      "similar": [
+        "schneier.com",
+        "krebsonsecurity.com"
+      ]
+    },
+    {
+      "url": "planetscale.com/blog",
+      "name": "PlanetScale Blog",
+      "category": "tech",
+      "tags": [
+        "databases",
+        "mysql",
+        "serverless"
+      ],
+      "description": "Database platform blog",
+      "similar": [
+        "cockroachlabs.com/blog",
+        "mongodb.com/blog"
+      ]
+    },
+    {
+      "url": "supabase.com/blog",
+      "name": "Supabase Blog",
+      "category": "tech",
+      "tags": [
+        "postgres",
+        "backend",
+        "open-source"
+      ],
+      "description": "Backend platform blog",
+      "similar": [
+        "planetscale.com/blog",
+        "firebase.google.com/blog"
+      ]
+    },
+    {
+      "url": "css-tricks.com",
+      "name": "CSS-Tricks",
+      "category": "tech",
+      "tags": [
+        "css",
+        "frontend",
+        "tutorials"
+      ],
+      "description": "CSS and frontend tips",
+      "similar": [
+        "smashingmagazine.com",
+        "a11yproject.com"
+      ]
+    },
+    {
+      "url": "smashingmagazine.com",
+      "name": "Smashing Magazine",
+      "category": "tech",
+      "tags": [
+        "web-design",
+        "frontend",
+        "ux"
+      ],
+      "description": "Web design and UX",
+      "similar": [
+        "css-tricks.com",
+        "alistapart.com"
+      ]
+    },
+    {
+      "url": "alistapart.com",
+      "name": "A List Apart",
+      "category": "tech",
+      "tags": [
+        "web-standards",
+        "design",
+        "content"
+      ],
+      "description": "Web standards and design",
+      "similar": [
+        "smashingmagazine.com",
+        "css-tricks.com"
+      ]
+    },
+    {
+      "url": "quantamagazine.org",
+      "name": "Quanta Magazine",
+      "category": "science",
+      "tags": [
+        "physics",
+        "math",
+        "biology"
+      ],
+      "description": "Science and math journalism",
+      "similar": [
+        "scientificamerican.com",
+        "newscientist.com"
+      ]
+    },
+    {
+      "url": "scientificamerican.com",
+      "name": "Scientific American",
+      "category": "science",
+      "tags": [
+        "science",
+        "magazine",
+        "popular"
+      ],
+      "description": "Popular science magazine",
+      "similar": [
+        "quantamagazine.org",
+        "nature.com"
+      ]
+    },
+    {
+      "url": "newscientist.com",
+      "name": "New Scientist",
+      "category": "science",
+      "tags": [
+        "science",
+        "news",
+        "discovery"
+      ],
+      "description": "Science news and features",
+      "similar": [
+        "scientificamerican.com",
+        "quantamagazine.org"
+      ]
+    },
+    {
+      "url": "sciencedaily.com",
+      "name": "ScienceDaily",
+      "category": "science",
+      "tags": [
+        "science-news",
+        "aggregator",
+        "research"
+      ],
+      "description": "Science news aggregator",
+      "similar": [
+        "phys.org",
+        "eurekalert.org"
+      ]
+    },
+    {
+      "url": "historytoday.com",
+      "name": "History Today",
+      "category": "history",
+      "tags": [
+        "history",
+        "magazine",
+        "articles"
+      ],
+      "description": "History magazine",
+      "similar": [
+        "smithsonianmag.com",
+        "historyhit.com"
+      ]
+    },
+    {
+      "url": "smithsonianmag.com",
+      "name": "Smithsonian Magazine",
+      "category": "history",
+      "tags": [
+        "history",
+        "culture",
+        "science"
+      ],
+      "description": "History and culture",
+      "similar": [
+        "historytoday.com",
+        "nationalgeographic.com"
+      ]
+    },
+    {
+      "url": "earthobservatory.nasa.gov",
+      "name": "NASA Earth Observatory",
+      "category": "environment",
+      "tags": [
+        "earth",
+        "satellite",
+        "climate"
+      ],
+      "description": "Earth imagery and science",
+      "similar": [
+        "climate.nasa.gov",
+        "noaa.gov"
+      ]
+    },
+    {
+      "url": "e360.yale.edu",
+      "name": "Yale Environment 360",
+      "category": "environment",
+      "tags": [
+        "environment",
+        "climate",
+        "journalism"
+      ],
+      "description": "Environmental journalism",
+      "similar": [
+        "grist.org",
+        "insideclimatenews.org"
+      ]
+    },
+    {
+      "url": "grist.org",
+      "name": "Grist",
+      "category": "environment",
+      "tags": [
+        "climate",
+        "environment",
+        "solutions"
+      ],
+      "description": "Climate news and solutions",
+      "similar": [
+        "e360.yale.edu",
+        "theguardian.com/environment"
+      ]
+    },
+    {
+      "url": "theringer.com",
+      "name": "The Ringer",
+      "category": "sports",
+      "tags": [
+        "sports",
+        "pop-culture",
+        "podcasts"
+      ],
+      "description": "Sports and pop culture",
+      "similar": [
+        "espn.com",
+        "theathletic.com"
+      ]
+    },
+    {
+      "url": "theathletic.com",
+      "name": "The Athletic",
+      "category": "sports",
+      "tags": [
+        "sports",
+        "journalism",
+        "subscription"
+      ],
+      "description": "Sports journalism",
+      "similar": [
+        "espn.com",
+        "theringer.com"
+      ]
+    },
+    {
+      "url": "deadspin.com",
+      "name": "Deadspin",
+      "category": "sports",
+      "tags": [
+        "sports",
+        "culture",
+        "commentary"
+      ],
+      "description": "Sports news and culture",
+      "similar": [
+        "theringer.com",
+        "sbnation.com"
+      ]
+    },
+    {
+      "url": "atlasobscura.com",
+      "name": "Atlas Obscura",
+      "category": "travel",
+      "tags": [
+        "travel",
+        "weird",
+        "discovery"
+      ],
+      "description": "Curious travel destinations",
+      "similar": [
+        "roadsideamerica.com",
+        "lonelyplanet.com"
+      ]
+    },
+    {
+      "url": "lonelyplanet.com",
+      "name": "Lonely Planet",
+      "category": "travel",
+      "tags": [
+        "travel",
+        "guides",
+        "destinations"
+      ],
+      "description": "Travel guides",
+      "similar": [
+        "atlasobscura.com",
+        "tripadvisor.com"
+      ]
+    },
+    {
+      "url": "instructables.com",
+      "name": "Instructables",
+      "category": "diy",
+      "tags": [
+        "diy",
+        "projects",
+        "tutorials"
+      ],
+      "description": "DIY project tutorials",
+      "similar": [
+        "makezine.com",
+        "hackaday.com"
+      ]
+    },
+    {
+      "url": "makezine.com",
+      "name": "Make Magazine",
+      "category": "diy",
+      "tags": [
+        "makers",
+        "diy",
+        "electronics"
+      ],
+      "description": "Maker projects and culture",
+      "similar": [
+        "instructables.com",
+        "hackaday.com"
+      ]
+    },
+    {
+      "url": "hackaday.com",
+      "name": "Hackaday",
+      "category": "diy",
+      "tags": [
+        "hacking",
+        "electronics",
+        "projects"
+      ],
+      "description": "Hardware hacking and projects",
+      "similar": [
+        "makezine.com",
+        "instructables.com"
+      ]
+    },
+    {
+      "url": "hypebeast.com",
+      "name": "Hypebeast",
+      "category": "fashion",
+      "tags": [
+        "streetwear",
+        "sneakers",
+        "culture"
+      ],
+      "description": "Streetwear and culture",
+      "similar": [
+        "highsnobiety.com",
+        "complex.com"
+      ]
+    },
+    {
+      "url": "highsnobiety.com",
+      "name": "Highsnobiety",
+      "category": "fashion",
+      "tags": [
+        "streetwear",
+        "fashion",
+        "lifestyle"
+      ],
+      "description": "Fashion and lifestyle",
+      "similar": [
+        "hypebeast.com",
+        "grailed.com"
+      ]
+    },
+    {
+      "url": "duolingo.com",
+      "name": "Duolingo",
+      "category": "education",
+      "tags": [
+        "language-learning",
+        "gamified",
+        "free"
+      ],
+      "description": "Language learning app",
+      "similar": [
+        "memrise.com",
+        "busuu.com"
+      ]
+    },
+    {
+      "url": "memrise.com",
+      "name": "Memrise",
+      "category": "education",
+      "tags": [
+        "language-learning",
+        "flashcards",
+        "spaced-repetition"
+      ],
+      "description": "Language learning flashcards",
+      "similar": [
+        "duolingo.com",
+        "anki.net"
+      ]
+    },
+    {
+      "url": "strongerbyscience.com",
+      "name": "Stronger By Science",
+      "category": "fitness",
+      "tags": [
+        "strength-training",
+        "science",
+        "evidence-based"
+      ],
+      "description": "Evidence-based fitness",
+      "similar": [
+        "examine.com",
+        "barbellmedicine.com"
+      ]
+    },
+    {
+      "url": "examine.com",
+      "name": "Examine",
+      "category": "fitness",
+      "tags": [
+        "supplements",
+        "nutrition",
+        "science"
+      ],
+      "description": "Supplement and nutrition research",
+      "similar": [
+        "strongerbyscience.com",
+        "precisionnutrition.com"
+      ]
+    },
+    {
+      "url": "bogleheads.org",
+      "name": "Bogleheads",
+      "category": "finance",
+      "tags": [
+        "investing",
+        "index-funds",
+        "community"
+      ],
+      "description": "Index investing community",
+      "similar": [
+        "reddit.com/r/personalfinance",
+        "mrmoneymustache.com"
+      ]
+    },
+    {
+      "url": "mrmoneymustache.com",
+      "name": "Mr. Money Mustache",
+      "category": "finance",
+      "tags": [
+        "frugality",
+        "fire",
+        "blog"
+      ],
+      "description": "Financial independence blog",
+      "similar": [
+        "bogleheads.org",
+        "earlyretirementextreme.com"
+      ]
+    },
+    {
+      "url": "plato.stanford.edu",
+      "name": "Stanford Encyclopedia of Philosophy",
+      "category": "philosophy",
+      "tags": [
+        "philosophy",
+        "encyclopedia",
+        "academic"
+      ],
+      "description": "Philosophy encyclopedia",
+      "similar": [
+        "iep.utm.edu",
+        "philosophynow.org"
+      ]
+    },
+    {
+      "url": "philosophynow.org",
+      "name": "Philosophy Now",
+      "category": "philosophy",
+      "tags": [
+        "philosophy",
+        "magazine",
+        "accessible"
+      ],
+      "description": "Philosophy magazine",
+      "similar": [
+        "aeon.co",
+        "plato.stanford.edu"
+      ]
+    },
+    {
+      "url": "tildes.net",
+      "name": "Tildes",
+      "category": "community",
+      "tags": [
+        "discussion",
+        "invite-only",
+        "quality"
+      ],
+      "description": "Quality discussion community",
+      "similar": [
+        "lobste.rs",
+        "metafilter.com"
+      ]
+    },
+    {
+      "url": "slashdot.org",
+      "name": "Slashdot",
+      "category": "tech",
+      "tags": [
+        "tech-news",
+        "classic",
+        "community"
+      ],
+      "description": "News for nerds",
+      "similar": [
+        "news.ycombinator.com",
+        "reddit.com"
+      ]
+    },
+    {
+      "url": "farnamstreetblog.com",
+      "name": "Farnam Street",
+      "category": "blog",
+      "tags": [
+        "thinking",
+        "mental-models",
+        "decision-making"
+      ],
+      "description": "Mental models and thinking",
+      "similar": [
+        "lesswrong.com",
+        "overcomingbias.com"
+      ]
+    },
+    {
+      "url": "lesswrong.com",
+      "name": "LessWrong",
+      "category": "blog",
+      "tags": [
+        "rationality",
+        "ai-safety",
+        "philosophy"
+      ],
+      "description": "Rationality community",
+      "similar": [
+        "farnamstreetblog.com",
+        "slatestarcodex.com"
+      ]
+    },
+    {
+      "url": "odysee.com",
+      "name": "Odysee",
+      "category": "video",
+      "tags": [
+        "video",
+        "blockchain",
+        "decentralized"
+      ],
+      "description": "Decentralized video platform",
+      "similar": [
+        "youtube.com",
+        "vimeo.com"
+      ]
+    },
+    {
+      "url": "peertube.tv",
+      "name": "PeerTube",
+      "category": "video",
+      "tags": [
+        "video",
+        "federated",
+        "open-source"
+      ],
+      "description": "Federated video platform",
+      "similar": [
+        "odysee.com",
+        "vimeo.com"
+      ]
+    },
+    {
+      "url": "tvtropes.org",
+      "name": "TV Tropes",
+      "category": "reference",
+      "tags": [
+        "tropes",
+        "wiki",
+        "entertainment"
+      ],
+      "description": "Media tropes wiki",
+      "similar": [
+        "fandom.com",
+        "en.wikipedia.org"
+      ]
+    },
+    {
+      "url": "wikihow.com",
+      "name": "wikiHow",
+      "category": "reference",
+      "tags": [
+        "how-to",
+        "tutorials",
+        "wiki"
+      ],
+      "description": "How-to guides",
+      "similar": [
+        "instructables.com",
+        "en.wikipedia.org"
+      ]
+    },
+    {
+      "url": "theatlantic.com",
+      "name": "The Atlantic",
+      "category": "news",
+      "tags": [
+        "journalism",
+        "culture",
+        "longform"
+      ],
+      "description": "News and culture magazine",
+      "similar": [
+        "newyorker.com",
+        "nytimes.com"
+      ]
+    },
+    {
+      "url": "newyorker.com",
+      "name": "The New Yorker",
+      "category": "news",
+      "tags": [
+        "journalism",
+        "fiction",
+        "culture"
+      ],
+      "description": "News and culture magazine",
+      "similar": [
+        "theatlantic.com",
+        "harpers.org"
+      ]
+    },
+    {
+      "url": "harpers.org",
+      "name": "Harper's Magazine",
+      "category": "news",
+      "tags": [
+        "journalism",
+        "essays",
+        "literature"
+      ],
+      "description": "Literature and journalism",
+      "similar": [
+        "newyorker.com",
+        "longreads.com"
+      ]
+    },
+    {
+      "url": "nationalgeographic.com",
+      "name": "National Geographic",
+      "category": "science",
+      "tags": [
+        "nature",
+        "photography",
+        "exploration"
+      ],
+      "description": "Nature and exploration",
+      "similar": [
+        "smithsonianmag.com",
+        "scientificamerican.com"
+      ]
+    },
+    {
+      "url": "reddit.com/r/askscience",
+      "name": "r/AskScience",
+      "category": "science",
+      "tags": [
+        "q-and-a",
+        "science",
+        "community"
+      ],
+      "description": "Science Q&A subreddit",
+      "similar": [
+        "reddit.com/r/science",
+        "stackoverflow.com"
+      ]
+    },
+    {
+      "url": "reddit.com/r/science",
+      "name": "r/science",
+      "category": "science",
+      "tags": [
+        "research",
+        "papers",
+        "discussion"
+      ],
+      "description": "Science research discussion",
+      "similar": [
+        "reddit.com/r/askscience",
+        "scholar.google.com"
+      ]
+    },
+    {
+      "url": "reddit.com/r/personalfinance",
+      "name": "r/personalfinance",
+      "category": "finance",
+      "tags": [
+        "finance",
+        "advice",
+        "community"
+      ],
+      "description": "Personal finance advice",
+      "similar": [
+        "bogleheads.org",
+        "mrmoneymustache.com"
+      ]
+    },
+    {
+      "url": "reddit.com/r/fitness",
+      "name": "r/fitness",
+      "category": "fitness",
+      "tags": [
+        "fitness",
+        "exercise",
+        "community"
+      ],
+      "description": "Fitness community",
+      "similar": [
+        "strongerbyscience.com",
+        "bodybuilding.com"
+      ]
+    },
+    {
+      "url": "reddit.com/r/dataisbeautiful",
+      "name": "r/DataIsBeautiful",
+      "category": "data",
+      "tags": [
+        "data-viz",
+        "visualization",
+        "infographics"
+      ],
+      "description": "Data visualization",
+      "similar": [
+        "flowingdata.com",
+        "informationisbeautiful.net"
+      ]
+    },
+    {
+      "url": "reddit.com/r/webdev",
+      "name": "r/webdev",
+      "category": "tech",
+      "tags": [
+        "web-development",
+        "community",
+        "help"
+      ],
+      "description": "Web development subreddit",
+      "similar": [
+        "stackoverflow.com",
+        "dev.to"
+      ]
+    },
+    {
+      "url": "reddit.com/r/startups",
+      "name": "r/startups",
+      "category": "tech",
+      "tags": [
+        "startups",
+        "entrepreneurship",
+        "advice"
+      ],
+      "description": "Startup community",
+      "similar": [
+        "indiehackers.com",
+        "news.ycombinator.com"
+      ]
+    },
+    {
+      "url": "reddit.com/r/photography",
+      "name": "r/photography",
+      "category": "photography",
+      "tags": [
+        "photography",
+        "community",
+        "gear"
+      ],
+      "description": "Photography community",
+      "similar": [
+        "dpreview.com",
+        "flickr.com"
+      ]
+    },
+    {
+      "url": "reddit.com/r/books",
+      "name": "r/books",
+      "category": "books",
+      "tags": [
+        "books",
+        "reading",
+        "discussion"
+      ],
+      "description": "Book discussion community",
+      "similar": [
+        "goodreads.com",
+        "librarything.com"
+      ]
+    },
+    {
+      "url": "reddit.com/r/movies",
+      "name": "r/movies",
+      "category": "film",
+      "tags": [
+        "movies",
+        "discussion",
+        "news"
+      ],
+      "description": "Movie discussion subreddit",
+      "similar": [
+        "letterboxd.com",
+        "imdb.com"
+      ]
+    },
+    {
+      "url": "reddit.com/r/truegaming",
+      "name": "r/truegaming",
+      "category": "games",
+      "tags": [
+        "gaming",
+        "discussion",
+        "analysis"
+      ],
+      "description": "In-depth gaming discussion",
+      "similar": [
+        "reddit.com/r/games",
+        "rockpapershotgun.com"
+      ]
+    },
+    {
+      "url": "reddit.com/r/boardgames",
+      "name": "r/boardgames",
+      "category": "games",
+      "tags": [
+        "board-games",
+        "community",
+        "recommendations"
+      ],
+      "description": "Board game community",
+      "similar": [
+        "boardgamegeek.com",
+        "dicetower.com"
+      ]
+    },
+    {
+      "url": "reddit.com/r/mechanicalkeyboards",
+      "name": "r/MechanicalKeyboards",
+      "category": "tech",
+      "tags": [
+        "keyboards",
+        "hardware",
+        "enthusiast"
+      ],
+      "description": "Mechanical keyboard community",
+      "similar": [
+        "geekhack.org",
+        "deskthority.net"
+      ]
+    },
+    {
+      "url": "reddit.com/r/buildapc",
+      "name": "r/buildapc",
+      "category": "tech",
+      "tags": [
+        "pc-building",
+        "hardware",
+        "help"
+      ],
+      "description": "PC building help",
+      "similar": [
+        "pcpartpicker.com",
+        "tomshardware.com"
+      ]
+    },
+    {
+      "url": "boardgamegeek.com",
+      "name": "BoardGameGeek",
+      "category": "games",
+      "tags": [
+        "board-games",
+        "database",
+        "reviews"
+      ],
+      "description": "Board game database",
+      "similar": [
+        "reddit.com/r/boardgames",
+        "dicetower.com"
+      ]
+    },
+    {
+      "url": "dicetower.com",
+      "name": "Dice Tower",
+      "category": "games",
+      "tags": [
+        "board-games",
+        "reviews",
+        "videos"
+      ],
+      "description": "Board game reviews",
+      "similar": [
+        "boardgamegeek.com",
+        "shutupandsitdown.com"
+      ]
+    },
+    {
+      "url": "shutupandsitdown.com",
+      "name": "Shut Up & Sit Down",
+      "category": "games",
+      "tags": [
+        "board-games",
+        "reviews",
+        "humor"
+      ],
+      "description": "Board game reviews and videos",
+      "similar": [
+        "dicetower.com",
+        "boardgamegeek.com"
+      ]
+    },
+    {
+      "url": "eater.com",
+      "name": "Eater",
+      "category": "cooking",
+      "tags": [
+        "food",
+        "restaurants",
+        "culture"
+      ],
+      "description": "Food and restaurant news",
+      "similar": [
+        "bonappetit.com",
+        "grubstreet.com"
+      ]
+    },
+    {
+      "url": "epicurious.com",
+      "name": "Epicurious",
+      "category": "cooking",
+      "tags": [
+        "recipes",
+        "techniques",
+        "ingredients"
+      ],
+      "description": "Recipe database",
+      "similar": [
+        "allrecipes.com",
+        "bonappetit.com"
+      ]
+    },
+    {
+      "url": "allrecipes.com",
+      "name": "AllRecipes",
+      "category": "cooking",
+      "tags": [
+        "recipes",
+        "community",
+        "ratings"
+      ],
+      "description": "Community recipe site",
+      "similar": [
+        "epicurious.com",
+        "food.com"
+      ]
+    },
+    {
+      "url": "budgetbytes.com",
+      "name": "Budget Bytes",
+      "category": "cooking",
+      "tags": [
+        "budget",
+        "recipes",
+        "meal-prep"
+      ],
+      "description": "Budget-friendly recipes",
+      "similar": [
+        "allrecipes.com",
+        "thekitchn.com"
+      ]
+    },
+    {
+      "url": "twitch.tv",
+      "name": "Twitch",
+      "category": "video",
+      "tags": [
+        "streaming",
+        "gaming",
+        "live"
+      ],
+      "description": "Live streaming platform",
+      "similar": [
+        "youtube.com",
+        "kick.com"
+      ]
+    },
+    {
+      "url": "curiositystream.com",
+      "name": "CuriosityStream",
+      "category": "video",
+      "tags": [
+        "documentaries",
+        "educational",
+        "streaming"
+      ],
+      "description": "Documentary streaming",
+      "similar": [
+        "nebula.tv",
+        "youtube.com"
+      ]
+    },
+    {
+      "url": "myanimelist.net",
+      "name": "MyAnimeList",
+      "category": "anime",
+      "tags": [
+        "anime",
+        "database",
+        "tracking"
+      ],
+      "description": "Anime and manga database",
+      "similar": [
+        "anilist.co",
+        "kitsu.io"
+      ]
+    },
+    {
+      "url": "anilist.co",
+      "name": "AniList",
+      "category": "anime",
+      "tags": [
+        "anime",
+        "tracking",
+        "modern"
+      ],
+      "description": "Anime tracking",
+      "similar": [
+        "myanimelist.net",
+        "kitsu.io"
+      ]
+    },
+    {
+      "url": "crunchyroll.com",
+      "name": "Crunchyroll",
+      "category": "anime",
+      "tags": [
+        "anime",
+        "streaming",
+        "simulcast"
+      ],
+      "description": "Anime streaming",
+      "similar": [
+        "myanimelist.net",
+        "funimation.com"
+      ]
+    },
+    {
+      "url": "imdb.com",
+      "name": "IMDb",
+      "category": "film",
+      "tags": [
+        "database",
+        "movies",
+        "tv"
+      ],
+      "description": "Film and TV database",
+      "similar": [
+        "letterboxd.com",
+        "themoviedb.org"
+      ]
+    },
+    {
+      "url": "themoviedb.org",
+      "name": "The Movie Database",
+      "category": "film",
+      "tags": [
+        "database",
+        "api",
+        "community"
+      ],
+      "description": "Open movie database",
+      "similar": [
+        "imdb.com",
+        "letterboxd.com"
+      ]
+    },
+    {
+      "url": "musicbrainz.org",
+      "name": "MusicBrainz",
+      "category": "music",
+      "tags": [
+        "database",
+        "metadata",
+        "open-source"
+      ],
+      "description": "Open music database",
+      "similar": [
+        "discogs.com",
+        "last.fm"
+      ]
+    },
+    {
+      "url": "worldcat.org",
+      "name": "WorldCat",
+      "category": "books",
+      "tags": [
+        "library",
+        "catalog",
+        "search"
+      ],
+      "description": "Library catalog search",
+      "similar": [
+        "librarything.com",
+        "goodreads.com"
+      ]
+    },
+    {
+      "url": "flowingdata.com",
+      "name": "FlowingData",
+      "category": "data",
+      "tags": [
+        "data-viz",
+        "statistics",
+        "visualization"
+      ],
+      "description": "Data visualization blog",
+      "similar": [
+        "informationisbeautiful.net",
+        "reddit.com/r/dataisbeautiful"
+      ]
+    },
+    {
+      "url": "informationisbeautiful.net",
+      "name": "Information is Beautiful",
+      "category": "data",
+      "tags": [
+        "infographics",
+        "data-viz",
+        "design"
+      ],
+      "description": "Infographics and data viz",
+      "similar": [
+        "flowingdata.com",
+        "visualcapitalist.com"
+      ]
+    },
+    {
+      "url": "anandtech.com",
+      "name": "AnandTech",
+      "category": "tech",
+      "tags": [
+        "hardware",
+        "in-depth",
+        "reviews"
+      ],
+      "description": "In-depth hardware reviews",
+      "similar": [
+        "tomshardware.com",
+        "techpowerup.com"
+      ]
+    },
+    {
+      "url": "tomshardware.com",
+      "name": "Tom's Hardware",
+      "category": "tech",
+      "tags": [
+        "hardware",
+        "reviews",
+        "benchmarks"
+      ],
+      "description": "Hardware reviews and benchmarks",
+      "similar": [
+        "anandtech.com",
+        "pcpartpicker.com"
+      ]
+    },
+    {
+      "url": "rtings.com",
+      "name": "RTINGS",
+      "category": "tech",
+      "tags": [
+        "reviews",
+        "tvs",
+        "monitors"
+      ],
+      "description": "Data-driven product reviews",
+      "similar": [
+        "wirecutter.com",
+        "consumersearch.com"
+      ]
+    },
+    {
+      "url": "wirecutter.com",
+      "name": "Wirecutter",
+      "category": "tech",
+      "tags": [
+        "reviews",
+        "recommendations",
+        "nytimes"
+      ],
+      "description": "Product recommendations",
+      "similar": [
+        "rtings.com",
+        "thewirecutter.com"
+      ]
+    },
+    {
+      "url": "dpreview.com",
+      "name": "DPReview",
+      "category": "photography",
+      "tags": [
+        "cameras",
+        "reviews",
+        "gear"
+      ],
+      "description": "Camera reviews and forums",
+      "similar": [
+        "reddit.com/r/photography",
+        "fredmiranda.com"
+      ]
+    },
+    {
+      "url": "petapixel.com",
+      "name": "PetaPixel",
+      "category": "photography",
+      "tags": [
+        "photography",
+        "news",
+        "tutorials"
+      ],
+      "description": "Photography news and tips",
+      "similar": [
+        "fstoppers.com",
+        "dpreview.com"
+      ]
+    },
+    {
+      "url": "fstoppers.com",
+      "name": "Fstoppers",
+      "category": "photography",
+      "tags": [
+        "photography",
+        "videos",
+        "community"
+      ],
+      "description": "Photography community",
+      "similar": [
+        "petapixel.com",
+        "photographylife.com"
+      ]
+    },
+    {
+      "url": "strava.com",
+      "name": "Strava",
+      "category": "fitness",
+      "tags": [
+        "running",
+        "cycling",
+        "tracking"
+      ],
+      "description": "Athletic activity tracking",
+      "similar": [
+        "runkeeper.com",
+        "mapmyrun.com"
+      ]
+    },
+    {
+      "url": "runnersworld.com",
+      "name": "Runner's World",
+      "category": "fitness",
+      "tags": [
+        "running",
+        "training",
+        "gear"
+      ],
+      "description": "Running magazine",
+      "similar": [
+        "strava.com",
+        "outsideonline.com"
+      ]
+    },
+    {
+      "url": "bicycling.com",
+      "name": "Bicycling",
+      "category": "fitness",
+      "tags": [
+        "cycling",
+        "training",
+        "gear"
+      ],
+      "description": "Cycling magazine",
+      "similar": [
+        "strava.com",
+        "velonews.com"
+      ]
+    },
+    {
+      "url": "outsideonline.com",
+      "name": "Outside Online",
+      "category": "outdoors",
+      "tags": [
+        "outdoors",
+        "adventure",
+        "gear"
+      ],
+      "description": "Outdoor adventure magazine",
+      "similar": [
+        "backpacker.com",
+        "climbing.com"
+      ]
+    },
+    {
+      "url": "backpacker.com",
+      "name": "Backpacker",
+      "category": "outdoors",
+      "tags": [
+        "hiking",
+        "backpacking",
+        "trails"
+      ],
+      "description": "Backpacking magazine",
+      "similar": [
+        "outsideonline.com",
+        "rei.com/blog"
+      ]
+    },
+    {
+      "url": "jalopnik.com",
+      "name": "Jalopnik",
+      "category": "automotive",
+      "tags": [
+        "cars",
+        "news",
+        "culture"
+      ],
+      "description": "Car news and culture",
+      "similar": [
+        "roadandtrack.com",
+        "caranddriver.com"
+      ]
+    },
+    {
+      "url": "roadandtrack.com",
+      "name": "Road & Track",
+      "category": "automotive",
+      "tags": [
+        "cars",
+        "racing",
+        "reviews"
+      ],
+      "description": "Automotive magazine",
+      "similar": [
+        "caranddriver.com",
+        "motortrend.com"
+      ]
+    },
+    {
+      "url": "caranddriver.com",
+      "name": "Car and Driver",
+      "category": "automotive",
+      "tags": [
+        "cars",
+        "reviews",
+        "testing"
+      ],
+      "description": "Car reviews and news",
+      "similar": [
+        "roadandtrack.com",
+        "motortrend.com"
+      ]
+    },
+    {
+      "url": "scarymommy.com",
+      "name": "Scary Mommy",
+      "category": "parenting",
+      "tags": [
+        "parenting",
+        "humor",
+        "community"
+      ],
+      "description": "Parenting humor and advice",
+      "similar": [
+        "babycenter.com",
+        "whattoexpect.com"
+      ]
+    },
+    {
+      "url": "apartmenttherapy.com",
+      "name": "Apartment Therapy",
+      "category": "home",
+      "tags": [
+        "home",
+        "design",
+        "organization"
+      ],
+      "description": "Home design and organization",
+      "similar": [
+        "thespruce.com",
+        "houzz.com"
+      ]
+    },
+    {
+      "url": "gardenersworld.com",
+      "name": "Gardeners' World",
+      "category": "gardening",
+      "tags": [
+        "gardening",
+        "plants",
+        "how-to"
+      ],
+      "description": "Gardening advice",
+      "similar": [
+        "rhs.org.uk",
+        "finegardening.com"
+      ]
+    },
+    {
+      "url": "webtoons.com",
+      "name": "Webtoon",
+      "category": "comics",
+      "tags": [
+        "webcomics",
+        "vertical",
+        "mobile"
+      ],
+      "description": "Digital comics platform",
+      "similar": [
+        "tapas.io",
+        "comixology.com"
+      ]
+    },
+    {
+      "url": "tapas.io",
+      "name": "Tapas",
+      "category": "comics",
+      "tags": [
+        "webcomics",
+        "indie",
+        "novels"
+      ],
+      "description": "Indie comics and novels",
+      "similar": [
+        "webtoons.com",
+        "globalcomix.com"
+      ]
+    },
+    {
+      "url": "slatestarcodex.com",
+      "name": "Slate Star Codex",
+      "category": "blog",
+      "tags": [
+        "rationality",
+        "psychiatry",
+        "essays"
+      ],
+      "description": "Rationalist blog",
+      "similar": [
+        "lesswrong.com",
+        "overcomingbias.com"
+      ]
+    },
+    {
+      "url": "overcomingbias.com",
+      "name": "Overcoming Bias",
+      "category": "blog",
+      "tags": [
+        "rationality",
+        "economics",
+        "bias"
+      ],
+      "description": "Robin Hanson's blog",
+      "similar": [
+        "lesswrong.com",
+        "slatestarcodex.com"
+      ]
+    },
+    {
+      "url": "waitbutwhy.com",
+      "name": "Wait But Why",
+      "category": "blog",
+      "tags": [
+        "stick-figures",
+        "deep-dives",
+        "humor"
+      ],
+      "description": "Long-form illustrated blog",
+      "similar": [
+        "xkcd.com",
+        "theoatmeal.com"
+      ]
+    },
+    {
+      "url": "fontsinuse.com",
+      "name": "Fonts In Use",
+      "category": "design",
+      "tags": [
+        "typography",
+        "fonts",
+        "archive"
+      ],
+      "description": "Typography archive",
+      "similar": [
+        "typewolf.com",
+        "fontshop.com"
+      ]
+    },
+    {
+      "url": "typewolf.com",
+      "name": "Typewolf",
+      "category": "design",
+      "tags": [
+        "typography",
+        "fonts",
+        "inspiration"
+      ],
+      "description": "Font inspiration",
+      "similar": [
+        "fontsinuse.com",
+        "fonts.google.com"
+      ]
+    },
+    {
+      "url": "zenhabits.net",
+      "name": "Zen Habits",
+      "category": "blog",
+      "tags": [
+        "minimalism",
+        "productivity",
+        "mindfulness"
+      ],
+      "description": "Simplicity and mindfulness",
+      "similar": [
+        "becomingminimalist.com",
+        "theminimalists.com"
+      ]
+    },
+    {
+      "url": "becomingminimalist.com",
+      "name": "Becoming Minimalist",
+      "category": "blog",
+      "tags": [
+        "minimalism",
+        "decluttering",
+        "lifestyle"
+      ],
+      "description": "Minimalist living",
+      "similar": [
+        "zenhabits.net",
+        "theminimalists.com"
+      ]
+    },
+    {
+      "url": "nasa.gov",
+      "name": "NASA",
+      "category": "science",
+      "tags": [
+        "space",
+        "astronomy",
+        "exploration"
+      ],
+      "description": "NASA's official site",
+      "similar": [
+        "esa.int",
+        "space.com"
+      ]
+    },
+    {
+      "url": "space.com",
+      "name": "Space.com",
+      "category": "science",
+      "tags": [
+        "space",
+        "astronomy",
+        "news"
+      ],
+      "description": "Space and astronomy news",
+      "similar": [
+        "nasa.gov",
+        "skyandtelescope.org"
+      ]
+    },
+    {
+      "url": "gettingthingsdone.com",
+      "name": "Getting Things Done",
+      "category": "productivity",
+      "tags": [
+        "gtd",
+        "productivity",
+        "system"
+      ],
+      "description": "GTD methodology",
+      "similar": [
+        "notion.so",
+        "todoist.com"
+      ]
+    },
+    {
+      "url": "todoist.com",
+      "name": "Todoist",
+      "category": "productivity",
+      "tags": [
+        "tasks",
+        "to-do",
+        "organization"
+      ],
+      "description": "Task management app",
+      "similar": [
+        "things.app",
+        "omnifocus.com"
+      ]
+    },
+    {
+      "url": "scrivener.com",
+      "name": "Scrivener",
+      "category": "writing",
+      "tags": [
+        "writing",
+        "long-form",
+        "software"
+      ],
+      "description": "Long-form writing software",
+      "similar": [
+        "ulysses.app",
+        "iawriter.com"
+      ]
+    },
+    {
+      "url": "hemingwayapp.com",
+      "name": "Hemingway Editor",
+      "category": "writing",
+      "tags": [
+        "writing",
+        "editing",
+        "readability"
+      ],
+      "description": "Writing clarity tool",
+      "similar": [
+        "grammarly.com",
+        "prowritingaid.com"
+      ]
+    },
+    {
+      "url": "grammarly.com",
+      "name": "Grammarly",
+      "category": "writing",
+      "tags": [
+        "writing",
+        "grammar",
+        "ai"
+      ],
+      "description": "Writing assistant",
+      "similar": [
+        "hemingwayapp.com",
+        "languagetool.org"
+      ]
+    },
+    {
+      "url": "songkick.com",
+      "name": "Songkick",
+      "category": "music",
+      "tags": [
+        "concerts",
+        "tracking",
+        "live-music"
+      ],
+      "description": "Concert tracking and discovery",
+      "similar": [
+        "bandsintown.com",
+        "setlist.fm"
+      ]
+    },
+    {
+      "url": "setlist.fm",
+      "name": "setlist.fm",
+      "category": "music",
+      "tags": [
+        "setlists",
+        "concerts",
+        "database"
+      ],
+      "description": "Concert setlist database",
+      "similar": [
+        "songkick.com",
+        "bandcamp.com"
+      ]
+    },
+    {
+      "url": "genius.com",
+      "name": "Genius",
+      "category": "music",
+      "tags": [
+        "lyrics",
+        "annotations",
+        "hip-hop"
+      ],
+      "description": "Annotated lyrics",
+      "similar": [
+        "azlyrics.com",
+        "metrolyrics.com"
+      ]
+    },
+    {
+      "url": "nexusmods.com",
+      "name": "Nexus Mods",
+      "category": "games",
+      "tags": [
+        "mods",
+        "modding",
+        "community"
+      ],
+      "description": "Game modding community",
+      "similar": [
+        "curseforge.com",
+        "moddb.com"
+      ]
+    },
+    {
+      "url": "pcgamingwiki.com",
+      "name": "PCGamingWiki",
+      "category": "games",
+      "tags": [
+        "wiki",
+        "fixes",
+        "troubleshooting"
+      ],
+      "description": "PC gaming troubleshooting",
+      "similar": [
+        "reddit.com/r/pcgaming",
+        "steamcommunity.com"
+      ]
+    },
+    {
+      "url": "backloggery.com",
+      "name": "Backloggery",
+      "category": "games",
+      "tags": [
+        "tracking",
+        "backlog",
+        "collection"
+      ],
+      "description": "Game backlog tracking",
+      "similar": [
+        "howlongtobeat.com",
+        "grouvee.com"
+      ]
+    },
+    {
+      "url": "howlongtobeat.com",
+      "name": "HowLongToBeat",
+      "category": "games",
+      "tags": [
+        "time",
+        "completion",
+        "database"
+      ],
+      "description": "Game length database",
+      "similar": [
+        "backloggery.com",
+        "completionator.com"
+      ]
+    },
+    {
+      "url": "dotabuff.com",
+      "name": "Dotabuff",
+      "category": "games",
+      "tags": [
+        "dota",
+        "statistics",
+        "esports"
+      ],
+      "description": "Dota 2 statistics",
+      "similar": [
+        "op.gg",
+        "liquidpedia.net"
+      ]
+    },
+    {
+      "url": "op.gg",
+      "name": "OP.GG",
+      "category": "games",
+      "tags": [
+        "league-of-legends",
+        "statistics",
+        "esports"
+      ],
+      "description": "League of Legends statistics",
+      "similar": [
+        "dotabuff.com",
+        "u.gg"
+      ]
+    },
+    {
+      "url": "go.dev",
+      "name": "Go.dev",
+      "category": "tech",
+      "tags": [
+        "golang",
+        "programming",
+        "documentation"
+      ],
+      "description": "Go programming language",
+      "similar": [
+        "rust-lang.org",
+        "python.org"
+      ]
+    },
+    {
+      "url": "rust-lang.org",
+      "name": "Rust",
+      "category": "tech",
+      "tags": [
+        "rust",
+        "programming",
+        "systems"
+      ],
+      "description": "Rust programming language",
+      "similar": [
+        "go.dev",
+        "doc.rust-lang.org"
+      ]
+    },
+    {
+      "url": "python.org",
+      "name": "Python",
+      "category": "tech",
+      "tags": [
+        "python",
+        "programming",
+        "documentation"
+      ],
+      "description": "Python programming language",
+      "similar": [
+        "docs.python.org",
+        "realpython.com"
+      ]
+    },
+    {
+      "url": "realpython.com",
+      "name": "Real Python",
+      "category": "tech",
+      "tags": [
+        "python",
+        "tutorials",
+        "courses"
+      ],
+      "description": "Python tutorials",
+      "similar": [
+        "python.org",
+        "fullstackpython.com"
+      ]
+    },
+    {
+      "url": "hashnode.com",
+      "name": "Hashnode",
+      "category": "tech",
+      "tags": [
+        "blogging",
+        "developers",
+        "community"
+      ],
+      "description": "Developer blogging",
+      "similar": [
+        "dev.to",
+        "medium.com"
+      ]
+    },
+    {
+      "url": "daily.dev",
+      "name": "daily.dev",
+      "category": "tech",
+      "tags": [
+        "news",
+        "aggregator",
+        "developers"
+      ],
+      "description": "Developer news aggregator",
+      "similar": [
+        "news.ycombinator.com",
+        "lobste.rs"
+      ]
+    },
+    {
+      "url": "canva.com",
+      "name": "Canva",
+      "category": "design",
+      "tags": [
+        "templates",
+        "graphics",
+        "easy"
+      ],
+      "description": "Easy graphic design",
+      "similar": [
+        "figma.com",
+        "adobe.com"
+      ]
+    },
+    {
+      "url": "figma.com",
+      "name": "Figma",
+      "category": "design",
+      "tags": [
+        "ui-design",
+        "collaborative",
+        "prototyping"
+      ],
+      "description": "Collaborative design tool",
+      "similar": [
+        "sketch.com",
+        "adobexd.com"
+      ]
+    },
+    {
+      "url": "coolors.co",
+      "name": "Coolors",
+      "category": "design",
+      "tags": [
+        "colors",
+        "palettes",
+        "generator"
+      ],
+      "description": "Color palette generator",
+      "similar": [
+        "color.adobe.com",
+        "paletton.com"
+      ]
+    },
+    {
+      "url": "nngroup.com",
+      "name": "Nielsen Norman Group",
+      "category": "design",
+      "tags": [
+        "ux",
+        "research",
+        "usability"
+      ],
+      "description": "UX research and guidelines",
+      "similar": [
+        "uxdesign.cc",
+        "smashingmagazine.com"
+      ]
+    },
+    {
+      "url": "uxdesign.cc",
+      "name": "UX Design.cc",
+      "category": "design",
+      "tags": [
+        "ux",
+        "articles",
+        "community"
+      ],
+      "description": "UX articles and insights",
+      "similar": [
+        "nngroup.com",
+        "uxplanet.org"
+      ]
+    },
+    {
+      "url": "conceptartworld.com",
+      "name": "Concept Art World",
+      "category": "art",
+      "tags": [
+        "concept-art",
+        "game-art",
+        "film"
+      ],
+      "description": "Concept art gallery",
+      "similar": [
+        "artstation.com",
+        "cghero.com"
+      ]
+    },
+    {
+      "url": "reedsy.com",
+      "name": "Reedsy",
+      "category": "writing",
+      "tags": [
+        "writing",
+        "publishing",
+        "marketplace"
+      ],
+      "description": "Writing and publishing marketplace",
+      "similar": [
+        "nanowrimo.org",
+        "scribophile.com"
+      ]
+    },
+    {
+      "url": "nanowrimo.org",
+      "name": "NaNoWriMo",
+      "category": "writing",
+      "tags": [
+        "writing",
+        "challenge",
+        "community"
+      ],
+      "description": "Novel writing challenge",
+      "similar": [
+        "reedsy.com",
+        "campnanowrimo.org"
+      ]
+    },
+    {
+      "url": "scribophile.com",
+      "name": "Scribophile",
+      "category": "writing",
+      "tags": [
+        "writing",
+        "critique",
+        "community"
+      ],
+      "description": "Writing critique community",
+      "similar": [
+        "reedsy.com",
+        "wattpad.com"
+      ]
+    },
+    {
+      "url": "wattpad.com",
+      "name": "Wattpad",
+      "category": "writing",
+      "tags": [
+        "writing",
+        "sharing",
+        "fan-fiction"
+      ],
+      "description": "Story sharing platform",
+      "similar": [
+        "archiveofourown.org",
+        "fanfiction.net"
+      ]
+    },
+    {
+      "url": "archiveofourown.org",
+      "name": "Archive of Our Own",
+      "category": "writing",
+      "tags": [
+        "fan-fiction",
+        "archive",
+        "community"
+      ],
+      "description": "Fan fiction archive",
+      "similar": [
+        "wattpad.com",
+        "fanfiction.net"
+      ]
+    },
+    {
+      "url": "semanticscholar.org",
+      "name": "Semantic Scholar",
+      "category": "science",
+      "tags": [
+        "academic",
+        "ai",
+        "search"
+      ],
+      "description": "AI-powered research search",
+      "similar": [
+        "scholar.google.com",
+        "arxiv.org"
+      ]
+    },
+    {
+      "url": "researchgate.net",
+      "name": "ResearchGate",
+      "category": "science",
+      "tags": [
+        "academic",
+        "networking",
+        "papers"
+      ],
+      "description": "Academic social network",
+      "similar": [
+        "academia.edu",
+        "scholar.google.com"
+      ]
+    },
+    {
+      "url": "academia.edu",
+      "name": "Academia.edu",
+      "category": "science",
+      "tags": [
+        "academic",
+        "papers",
+        "sharing"
+      ],
+      "description": "Academic paper sharing",
+      "similar": [
+        "researchgate.net",
+        "arxiv.org"
+      ]
+    },
+    {
+      "url": "connectedpapers.com",
+      "name": "Connected Papers",
+      "category": "science",
+      "tags": [
+        "research",
+        "visualization",
+        "discovery"
+      ],
+      "description": "Research paper visualization",
+      "similar": [
+        "semanticscholar.org",
+        "arxiv.org"
+      ]
+    },
+    {
+      "url": "italki.com",
+      "name": "italki",
+      "category": "education",
+      "tags": [
+        "language-learning",
+        "tutors",
+        "speaking"
+      ],
+      "description": "Language tutoring platform",
+      "similar": [
+        "duolingo.com",
+        "tandem.net"
+      ]
+    },
+    {
+      "url": "forvo.com",
+      "name": "Forvo",
+      "category": "reference",
+      "tags": [
+        "pronunciation",
+        "language",
+        "audio"
+      ],
+      "description": "Pronunciation dictionary",
+      "similar": [
+        "cambridge.org",
+        "merriam-webster.com"
+      ]
+    },
+    {
+      "url": "openstreetmap.org",
+      "name": "OpenStreetMap",
+      "category": "reference",
+      "tags": [
+        "maps",
+        "open-source",
+        "community"
+      ],
+      "description": "Open source maps",
+      "similar": [
+        "maps.google.com",
+        "mapbox.com"
+      ]
+    },
+    {
+      "url": "geoguessr.com",
+      "name": "GeoGuessr",
+      "category": "games",
+      "tags": [
+        "geography",
+        "game",
+        "maps"
+      ],
+      "description": "Geography guessing game",
+      "similar": [
+        "openstreetmap.org",
+        "worldle.teuteuf.fr"
+      ]
+    },
+    {
+      "url": "headspace.com",
+      "name": "Headspace",
+      "category": "wellness",
+      "tags": [
+        "meditation",
+        "mindfulness",
+        "app"
+      ],
+      "description": "Meditation app",
+      "similar": [
+        "calm.com",
+        "insighttimer.com"
+      ]
+    },
+    {
+      "url": "insighttimer.com",
+      "name": "Insight Timer",
+      "category": "wellness",
+      "tags": [
+        "meditation",
+        "free",
+        "community"
+      ],
+      "description": "Free meditation app",
+      "similar": [
+        "headspace.com",
+        "calm.com"
+      ]
+    },
+    {
+      "url": "seekingalpha.com",
+      "name": "Seeking Alpha",
+      "category": "finance",
+      "tags": [
+        "investing",
+        "stocks",
+        "analysis"
+      ],
+      "description": "Stock market analysis",
+      "similar": [
+        "fool.com",
+        "marketwatch.com"
+      ]
+    },
+    {
+      "url": "fool.com",
+      "name": "The Motley Fool",
+      "category": "finance",
+      "tags": [
+        "investing",
+        "advice",
+        "stocks"
+      ],
+      "description": "Investment advice",
+      "similar": [
+        "seekingalpha.com",
+        "morningstar.com"
+      ]
+    },
+    {
+      "url": "coinmarketcap.com",
+      "name": "CoinMarketCap",
+      "category": "finance",
+      "tags": [
+        "crypto",
+        "prices",
+        "data"
+      ],
+      "description": "Cryptocurrency data",
+      "similar": [
+        "coingecko.com",
+        "coinbase.com"
+      ]
+    },
+    {
+      "url": "coingecko.com",
+      "name": "CoinGecko",
+      "category": "finance",
+      "tags": [
+        "crypto",
+        "tracking",
+        "data"
+      ],
+      "description": "Crypto market tracking",
+      "similar": [
+        "coinmarketcap.com",
+        "messari.io"
+      ]
+    },
+    {
+      "url": "windy.com",
+      "name": "Windy",
+      "category": "weather",
+      "tags": [
+        "weather",
+        "visualization",
+        "forecasts"
+      ],
+      "description": "Weather visualization",
+      "similar": [
+        "weather.com",
+        "accuweather.com"
+      ]
+    },
+    {
+      "url": "ventusky.com",
+      "name": "Ventusky",
+      "category": "weather",
+      "tags": [
+        "weather",
+        "visualization",
+        "maps"
+      ],
+      "description": "Weather map visualization",
+      "similar": [
+        "windy.com",
+        "weather.gov"
+      ]
+    },
+    {
+      "url": "thedodo.com",
+      "name": "The Dodo",
+      "category": "pets",
+      "tags": [
+        "animals",
+        "videos",
+        "stories"
+      ],
+      "description": "Animal stories and videos",
+      "similar": [
+        "reddit.com/r/aww",
+        "boredpanda.com"
+      ]
+    },
+    {
+      "url": "youtube.com/vevo",
+      "name": "Vevo",
+      "category": "music",
+      "tags": [
+        "music-videos",
+        "official",
+        "mainstream"
+      ],
+      "description": "Official music videos",
+      "similar": [
+        "youtube.com",
+        "spotify.com"
+      ]
+    },
+    {
+      "url": "goodfon.com",
+      "name": "Goodfon",
+      "category": "photography",
+      "tags": [
+        "wallpapers",
+        "backgrounds",
+        "hd"
+      ],
+      "description": "HD wallpapers",
+      "similar": [
+        "unsplash.com",
+        "wallhaven.cc"
+      ]
+    },
+    {
+      "url": "wallhaven.cc",
+      "name": "Wallhaven",
+      "category": "photography",
+      "tags": [
+        "wallpapers",
+        "community",
+        "hd"
+      ],
+      "description": "Wallpaper community",
+      "similar": [
+        "goodfon.com",
+        "unsplash.com"
+      ]
+    },
+    {
+      "url": "regex101.com",
+      "name": "Regex101",
+      "category": "tech",
+      "tags": [
+        "regex",
+        "tools",
+        "testing"
+      ],
+      "description": "Regular expression tester",
+      "similar": [
+        "regexr.com",
+        "regextester.com"
+      ]
+    },
+    {
+      "url": "caniuse.com",
+      "name": "Can I Use",
+      "category": "tech",
+      "tags": [
+        "web-dev",
+        "compatibility",
+        "reference"
+      ],
+      "description": "Browser compatibility tables",
+      "similar": [
+        "mdn.org",
+        "w3schools.com"
+      ]
+    },
+    {
+      "url": "codeshare.io",
+      "name": "CodeShare",
+      "category": "tech",
+      "tags": [
+        "collaboration",
+        "coding",
+        "real-time"
+      ],
+      "description": "Real-time code sharing",
+      "similar": [
+        "replit.com",
+        "codesandbox.io"
+      ]
+    },
+    {
+      "url": "urbandictionary.com",
+      "name": "Urban Dictionary",
+      "category": "reference",
+      "tags": [
+        "slang",
+        "definitions",
+        "community"
+      ],
+      "description": "Slang dictionary",
+      "similar": [
+        "knowyourmeme.com",
+        "dictionary.com"
+      ]
+    },
+    {
+      "url": "knowyourmeme.com",
+      "name": "Know Your Meme",
+      "category": "reference",
+      "tags": [
+        "memes",
+        "internet-culture",
+        "database"
+      ],
+      "description": "Meme documentation",
+      "similar": [
+        "urbandictionary.com",
+        "tvtropes.org"
+      ]
+    },
+    {
+      "url": "camelcamelcamel.com",
+      "name": "CamelCamelCamel",
+      "category": "shopping",
+      "tags": [
+        "amazon",
+        "price-tracking",
+        "deals"
+      ],
+      "description": "Amazon price tracker",
+      "similar": [
+        "keepa.com",
+        "slickdeals.net"
+      ]
+    },
+    {
+      "url": "slickdeals.net",
+      "name": "Slickdeals",
+      "category": "shopping",
+      "tags": [
+        "deals",
+        "community",
+        "coupons"
+      ],
+      "description": "Deal sharing community",
+      "similar": [
+        "camelcamelcamel.com",
+        "reddit.com/r/deals"
+      ]
+    },
+    {
+      "url": "podchaser.com",
+      "name": "Podchaser",
+      "category": "podcasts",
+      "tags": [
+        "podcast-database",
+        "discovery",
+        "reviews"
+      ],
+      "description": "Podcast database and reviews",
+      "similar": [
+        "listen.app",
+        "pocketcasts.com"
+      ]
+    },
+    {
+      "url": "listen.app",
+      "name": "Listen Notes",
+      "category": "podcasts",
+      "tags": [
+        "podcast-search",
+        "discovery",
+        "database"
+      ],
+      "description": "Podcast search engine",
+      "similar": [
+        "podchaser.com",
+        "spotify.com"
+      ]
+    },
+    {
+      "url": "fonts.google.com",
+      "name": "Google Fonts",
+      "category": "design",
+      "tags": [
+        "fonts",
+        "free",
+        "web-fonts"
+      ],
+      "description": "Free web fonts",
+      "similar": [
+        "fontsquirrel.com",
+        "dafont.com"
+      ]
+    },
+    {
+      "url": "dafont.com",
+      "name": "DaFont",
+      "category": "design",
+      "tags": [
+        "fonts",
+        "free",
+        "downloads"
+      ],
+      "description": "Free font downloads",
+      "similar": [
+        "fonts.google.com",
+        "fontspace.com"
+      ]
+    },
+    {
+      "url": "thenounproject.com",
+      "name": "The Noun Project",
+      "category": "design",
+      "tags": [
+        "icons",
+        "symbols",
+        "free"
+      ],
+      "description": "Icon library",
+      "similar": [
+        "flaticon.com",
+        "iconfinder.com"
+      ]
+    },
+    {
+      "url": "flaticon.com",
+      "name": "Flaticon",
+      "category": "design",
+      "tags": [
+        "icons",
+        "free",
+        "graphics"
+      ],
+      "description": "Free icon database",
+      "similar": [
+        "thenounproject.com",
+        "icons8.com"
+      ]
+    },
+    {
+      "url": "mailchimp.com",
+      "name": "Mailchimp",
+      "category": "tech",
+      "tags": [
+        "email",
+        "marketing",
+        "newsletters"
+      ],
+      "description": "Email marketing platform",
+      "similar": [
+        "convertkit.com",
+        "substack.com"
+      ]
+    },
+    {
+      "url": "convertkit.com",
+      "name": "ConvertKit",
+      "category": "tech",
+      "tags": [
+        "email",
+        "creators",
+        "newsletters"
+      ],
+      "description": "Email for creators",
+      "similar": [
+        "mailchimp.com",
+        "beehiiv.com"
+      ]
+    },
+    {
+      "url": "upwork.com",
+      "name": "Upwork",
+      "category": "work",
+      "tags": [
+        "freelancing",
+        "jobs",
+        "remote"
+      ],
+      "description": "Freelance marketplace",
+      "similar": [
+        "fiverr.com",
+        "freelancer.com"
+      ]
+    },
+    {
+      "url": "fiverr.com",
+      "name": "Fiverr",
+      "category": "work",
+      "tags": [
+        "freelancing",
+        "services",
+        "gigs"
+      ],
+      "description": "Freelance services",
+      "similar": [
+        "upwork.com",
+        "toptal.com"
+      ]
+    },
+    {
+      "url": "weworkremotely.com",
+      "name": "We Work Remotely",
+      "category": "work",
+      "tags": [
+        "remote-jobs",
+        "tech",
+        "jobs"
+      ],
+      "description": "Remote job board",
+      "similar": [
+        "remoteok.com",
+        "flexjobs.com"
+      ]
+    },
+    {
+      "url": "remoteok.com",
+      "name": "Remote OK",
+      "category": "work",
+      "tags": [
+        "remote-jobs",
+        "nomad",
+        "tech"
+      ],
+      "description": "Remote jobs for nomads",
+      "similar": [
+        "weworkremotely.com",
+        "nomadlist.com"
+      ]
+    }
+  ],
+  "categories": {
+    "music": "Music sites, reviews, platforms, and discovery",
+    "games": "Gaming news, reviews, indie platforms, and communities",
+    "tech": "Technology, programming, startups, and developer tools",
+    "blog": "Personal blogs and link curation",
+    "writing": "Long-form writing, essays, and publishing platforms",
+    "film": "Film reviews, databases, and streaming",
+    "books": "Book reviews, tracking, and free ebooks",
+    "community": "Community-driven platforms and social networks",
+    "design": "Design portfolios, inspiration, and showcases",
+    "art": "Digital art communities and portfolios",
+    "photography": "Photography communities and stock photos",
+    "education": "Online learning and educational platforms",
+    "science": "Academic research and scientific databases",
+    "productivity": "Note-taking, organization, and workspace tools",
+    "curation": "Bookmarking and visual curation platforms",
+    "news": "Journalism and news sources",
+    "cooking": "Recipes, food culture, and culinary resources",
+    "comics": "Webcomics and comic platforms",
+    "reference": "Encyclopedias, archives, and knowledge bases",
+    "video": "Video platforms and streaming services",
+    "podcasts": "Podcast players and platforms",
+    "web": "Personal websites and web hosting",
+    "history": "Historical resources and museums",
+    "environment": "Environmental news and climate science",
+    "sports": "Sports news and coverage",
+    "travel": "Travel guides and destination discovery",
+    "diy": "DIY projects and maker culture",
+    "fashion": "Fashion and streetwear",
+    "fitness": "Health, fitness, and nutrition",
+    "finance": "Personal finance and investing",
+    "philosophy": "Philosophy and critical thinking",
+    "data": "Data visualization and analysis",
+    "anime": "Anime and manga tracking and streaming",
+    "outdoors": "Outdoor adventure and activities",
+    "automotive": "Cars and automotive culture",
+    "parenting": "Parenting advice and community",
+    "home": "Home design and organization",
+    "gardening": "Gardening and plants",
+    "wellness": "Meditation and mental wellness",
+    "weather": "Weather forecasts and visualization",
+    "pets": "Pets and animal content",
+    "shopping": "Shopping deals and price tracking",
+    "work": "Freelancing and remote work"
+  }
+}
